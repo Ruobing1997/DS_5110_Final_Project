@@ -1,25 +1,27 @@
 In my part of this project, I conducted comprehensive data preprocessing and analysis for the Workplace Violence (WPV) data. Specifically, I performed the following steps:
 
 Data Integration and Cleaning:
-
 Merged three separate WPV datasets into one unified dataset.
+
+Loaded and combined all sheets from the Excel file to ensure no data was omitted.
 
 Standardized column names, removed inconsistencies, and handled missing values (e.g., filling missing severity data with "Unknown").
 
-Exploratory Data Analysis (EDA):
+Removed unnecessary columns such as Unnamed: 0, and fully empty columns.
 
+Standardized values in key fields (e.g., converted "ED", "ER", "ICU" to "Emergency Department") to improve data consistency and accuracy.
+
+Exploratory Data Analysis (EDA):
 Explored the distribution of violence types, severity levels, occupational categories, and facility types through visualizations.
 
 Identified nurses and emergency departments as significantly impacted groups and locations.
 
 Predictive Modeling:
-
 Built classification models (Random Forest and Logistic Regression) to predict incident severity based on factors like aggressor type, violence type, facility type, and occupational roles.
 
 Evaluated model performance (achieving approximately 48% accuracy with Logistic Regression and 42% accuracy with Random Forest) and visualized important factors influencing WPV severity.
 
 Advanced Analysis:
-
 Performed interaction analysis between key factors (e.g., facility types and aggressor types).
 
 Conducted K-Means clustering analysis to identify high-risk incident patterns.
