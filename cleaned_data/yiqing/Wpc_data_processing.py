@@ -29,67 +29,92 @@ data3 = standardize_columns(data3)
 # === Step 3: Merge data ===
 unified_data = pd.concat([data1, data2, data3], ignore_index=True)
 
-# === Step 4: Deep cleaning function ===
-def deep_cleaning(df):
-    # Drop fully empty columns and those with too many missing values
+# === Step 4: Enhanced deep cleaning ===
+def deep_cleaning_v2(df):
+    # Drop fully empty columns and high missing columns
     df.dropna(axis=1, how='all', inplace=True)
     df = df.loc[:, df.isna().mean() < 0.9]
 
-    # Replace N/S, n/s, empty, short text, etc.
-    df = df.applymap(lambda x: 'unknown' if str(x).strip().lower() in ['n/s', 'n\\s', 'ns', '', ' ', 'na'] or len(str(x).strip()) < 2 else x)
+    # Replace dirty text values with 'unknown'
+    ns_pattern = ['n/s', 'n\\s', 'ns', 'na', 'n.a.', '', ' ', 'none', 'null']
+    df = df.applymap(lambda x: 'unknown' if str(x).strip().lower() in ns_pattern or len(str(x).strip()) < 2 else x)
 
-    # Standardize all object/text fields
+    # Standardize all text fields
     str_cols = df.select_dtypes(include='object').columns
     df[str_cols] = df[str_cols].apply(lambda col: col.str.strip().str.lower())
 
-    # Aggressor standardization
-    if 'aggressor' in df.columns:
-        df['aggressor'] = df['aggressor'].replace({
-            'family_member': 'family',
-            'visitor': 'visitor',
-            'coworker': 'coworker',
-            'patient': 'patient',
-            'self': 'self',
+    # Standardize key fields
+    if 'perpetrator_type' in df.columns:
+        df['perpetrator_type'] = df['perpetrator_type'].replace({
+            'family_member': 'family', 'relative': 'family',
+            'visitor': 'visitor', 'staff': 'coworker',
+            'employee': 'coworker', 'coworker': 'coworker',
+            'patient': 'patient', 'self': 'self',
             'unknown': 'unknown'
         })
 
-    # Department field normalization
-    if 'department_office_incident_took_place' in df.columns:
-        df['department_office_incident_took_place'] = df['department_office_incident_took_place'].replace({
-            'ed': 'emergency_department',
-            'er': 'emergency_department',
-            'icu': 'emergency_department',
-            'ed room': 'emergency_department',
-            'ach': 'emergency_department',
-            'hallway': 'hallway',
-            'halleay': 'hallway'
+    if 'aggressor' in df.columns:
+        df['aggressor'] = df['aggressor'].replace({
+            'family_member': 'family', 'relative': 'family',
+            'visitor': 'visitor', 'coworker': 'coworker',
+            'patient': 'patient', 'self': 'self',
+            'unknown': 'unknown'
         })
 
-    # Time parsing and new columns
+    if 'violence_type' in df.columns:
+        df['violence_type'] = df['violence_type'].replace({
+            'verbal abuse': 'verbal', 'verbal': 'verbal',
+            'physical': 'physical', 'physical assault': 'physical',
+            'sexual': 'sexual', 'sexual harassment': 'sexual',
+            'harassment': 'verbal', 'property damage': 'property'
+        })
+
+    if 'victim_profession' in df.columns:
+        df['victim_profession'] = df['victim_profession'].replace({
+            'rn': 'nurse', 'registered nurse': 'nurse',
+            'lpn': 'nurse', 'doctor': 'physician',
+            'physician': 'physician', 'tech': 'technician',
+            'housekeeping': 'support', 'environmental services': 'support',
+            'security': 'security', 'unknown': 'unknown'
+        })
+
+    if 'department' in df.columns:
+        df['department'] = df['department'].replace({
+            'ed': 'emergency', 'er': 'emergency', 'icu': 'emergency',
+            'ed room': 'emergency', 'ach': 'emergency',
+            'hallway': 'hallway', 'halleay': 'hallway'
+        })
+
     if 'event_date' in df.columns:
         df['event_date'] = pd.to_datetime(df['event_date'], errors='coerce')
         df = df[df['event_date'].notna()]
         df['event_month'] = df['event_date'].dt.to_period('M')
         df['event_year'] = df['event_date'].dt.year
 
+    if 'event_time' in df.columns:
+        df['event_time'] = pd.to_datetime(df['event_time'], errors='coerce')
+        df = df[df['event_time'].notna()]
+        df['event_month'] = df['event_time'].dt.to_period('M')
+        df['event_year'] = df['event_time'].dt.year
+
     return df
 
-# === Step 5: Apply deep cleaning ===
-unified_data = deep_cleaning(unified_data)
+# Apply enhanced cleaning
+unified_data = deep_cleaning_v2(unified_data)
 
-# === Step 6: Remove unnamed columns again if needed ===
+# === Step 5: Drop Unnamed columns again if any ===
 unified_data = unified_data.loc[:, ~unified_data.columns.str.contains('^unnamed', case=False)]
 
-# === Step 7: Impute remaining missing values ===
+# === Step 6: Impute missing values ===
 imputer = SimpleImputer(strategy='constant', fill_value='unknown')
 data_imputed = pd.DataFrame(imputer.fit_transform(unified_data), columns=unified_data.columns)
 
-# === Step 8: One-Hot Encoding ===
+# === Step 7: One-Hot Encoding ===
 categorical_cols = [
-    'facility_type', 'job_role', 'aggressor', 'type_of_violence',
-    'primary_contributing_factors', 'severity_of_assault',
-    'emotional_and_or_psychological_impact', 'level_of_care_needed',
-    'response_action_taken'
+    'facility_type', 'job_role', 'aggressor', 'perpetrator_type',
+    'type_of_violence', 'violence_type', 'primary_contributing_factors',
+    'severity_of_assault', 'emotional_and_or_psychological_impact',
+    'level_of_care_needed', 'response_action_taken'
 ]
 categorical_cols = [col for col in categorical_cols if col in data_imputed.columns]
 
@@ -97,13 +122,13 @@ encoder = OneHotEncoder(sparse_output=False, handle_unknown='ignore')
 encoded_features = encoder.fit_transform(data_imputed[categorical_cols])
 encoded_df = pd.DataFrame(encoded_features, columns=encoder.get_feature_names_out(categorical_cols))
 
-# === Step 9: PCA ===
+# === Step 8: PCA ===
 pca = PCA(n_components=2)
 principal_components = pca.fit_transform(encoded_df)
 pca_df = pd.DataFrame(principal_components, columns=['PC1', 'PC2'])
 
-# === Step 10: Export cleaned data ===
+# === Step 9: Export cleaned data ===
 unified_data.to_csv('cleaned_data/yiqing/merged_wpv_cleaned.csv', index=False)
 
-# === Step 11: Preview PCA output ===
+# === Step 10: Output sample PCA result ===
 print(pca_df.head())
