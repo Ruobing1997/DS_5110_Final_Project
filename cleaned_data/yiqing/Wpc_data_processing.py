@@ -29,21 +29,24 @@ data3 = standardize_columns(data3)
 # === Step 3: Merge data ===
 unified_data = pd.concat([data1, data2, data3], ignore_index=True)
 
-# === Step 4: Enhanced deep cleaning ===
+# === Step 4: Deep Cleaning v2 (extended for <n/s>) ===
 def deep_cleaning_v2(df):
-    # Drop fully empty columns and high missing columns
+    # Drop fully empty columns and those with too much missing
     df.dropna(axis=1, how='all', inplace=True)
     df = df.loc[:, df.isna().mean() < 0.9]
 
-    # Replace dirty text values with 'unknown'
-    ns_pattern = ['n/s', 'n\\s', 'ns', 'na', 'n.a.', '', ' ', 'none', 'null']
+    # Replace low-quality text values with 'unknown'
+    ns_pattern = [
+        'n/s', 'n\\s', 'ns', 'na', 'n.a.', 'n.a', '<n/s>', '<ns>', '<na>', '<n/a>', 'n\\a',
+        '', ' ', 'none', 'null', '-', '--', 'n-a'
+    ]
     df = df.applymap(lambda x: 'unknown' if str(x).strip().lower() in ns_pattern or len(str(x).strip()) < 2 else x)
 
     # Standardize all text fields
     str_cols = df.select_dtypes(include='object').columns
     df[str_cols] = df[str_cols].apply(lambda col: col.str.strip().str.lower())
 
-    # Standardize key fields
+    # Normalize specific fields
     if 'perpetrator_type' in df.columns:
         df['perpetrator_type'] = df['perpetrator_type'].replace({
             'family_member': 'family', 'relative': 'family',
@@ -85,6 +88,7 @@ def deep_cleaning_v2(df):
             'hallway': 'hallway', 'halleay': 'hallway'
         })
 
+    # Parse and extract time
     if 'event_date' in df.columns:
         df['event_date'] = pd.to_datetime(df['event_date'], errors='coerce')
         df = df[df['event_date'].notna()]
@@ -99,15 +103,19 @@ def deep_cleaning_v2(df):
 
     return df
 
-# Apply enhanced cleaning
 unified_data = deep_cleaning_v2(unified_data)
 
-# === Step 5: Drop Unnamed columns again if any ===
-unified_data = unified_data.loc[:, ~unified_data.columns.str.contains('^unnamed', case=False)]
+# === Step 5: Smart rule-based imputation ===
+if 'perpetrator_type' in unified_data.columns and 'department' in unified_data.columns:
+    mask = (unified_data['perpetrator_type'].isin(['unknown', 'nan'])) & (unified_data['department'].str.contains('emergency', na=False))
+    unified_data.loc[mask, 'perpetrator_type'] = 'patient'
 
-# === Step 6: Impute missing values ===
-imputer = SimpleImputer(strategy='constant', fill_value='unknown')
-data_imputed = pd.DataFrame(imputer.fit_transform(unified_data), columns=unified_data.columns)
+if 'violence_type' in unified_data.columns and 'response_action_taken' in unified_data.columns:
+    mask = (unified_data['violence_type'].isin(['unknown', 'nan'])) & (unified_data['response_action_taken'].str.contains('security', na=False))
+    unified_data.loc[mask, 'violence_type'] = 'physical'
+
+# === Step 6: Final fill for any leftover missing values ===
+unified_data.fillna('unknown', inplace=True)
 
 # === Step 7: One-Hot Encoding ===
 categorical_cols = [
@@ -116,10 +124,10 @@ categorical_cols = [
     'severity_of_assault', 'emotional_and_or_psychological_impact',
     'level_of_care_needed', 'response_action_taken'
 ]
-categorical_cols = [col for col in categorical_cols if col in data_imputed.columns]
+categorical_cols = [col for col in categorical_cols if col in unified_data.columns]
 
 encoder = OneHotEncoder(sparse_output=False, handle_unknown='ignore')
-encoded_features = encoder.fit_transform(data_imputed[categorical_cols])
+encoded_features = encoder.fit_transform(unified_data[categorical_cols])
 encoded_df = pd.DataFrame(encoded_features, columns=encoder.get_feature_names_out(categorical_cols))
 
 # === Step 8: PCA ===
@@ -127,8 +135,8 @@ pca = PCA(n_components=2)
 principal_components = pca.fit_transform(encoded_df)
 pca_df = pd.DataFrame(principal_components, columns=['PC1', 'PC2'])
 
-# === Step 9: Export cleaned data ===
+# === Step 9: Export cleaned result ===
 unified_data.to_csv('cleaned_data/yiqing/merged_wpv_cleaned.csv', index=False)
 
-# === Step 10: Output sample PCA result ===
+# === Step 10: Preview ===
 print(pca_df.head())
