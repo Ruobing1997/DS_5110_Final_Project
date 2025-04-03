@@ -25,3 +25,12 @@
 6. Feature Importance
    - Analyze which features contribute most to predicting severity.
    - Visualize importance (bar chart or SHAP if applicable).
+
+---
+
+## Team
+Ruobing Wang
+
+Yiqing Ma
+
+Yingxin Song
