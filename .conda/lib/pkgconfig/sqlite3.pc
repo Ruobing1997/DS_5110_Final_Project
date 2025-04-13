@@ -1,0 +1,13 @@
+# Package Information for pkg-config
+
+prefix=/Users/ruobing/Desktop/25 Spring/DS5110/DS_5110_Final_Project/.conda
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: SQLite
+Description: SQL database engine
+Version: 3.49.1
+Libs: -L${libdir} -lsqlite3
+Libs.private:  -lz 
+Cflags: -I${includedir}
