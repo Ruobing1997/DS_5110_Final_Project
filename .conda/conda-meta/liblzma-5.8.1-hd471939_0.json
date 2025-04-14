@@ -1,0 +1,43 @@
+{
+  "build": "hd471939_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge",
+  "constrains": [],
+  "depends": [
+    "__osx >=10.13"
+  ],
+  "extracted_package_dir": "/Users/ruobing/opt/anaconda3/pkgs/liblzma-5.8.1-hd471939_0",
+  "features": "",
+  "files": [
+    "lib/liblzma.5.dylib"
+  ],
+  "fn": "liblzma-5.8.1-hd471939_0.conda",
+  "license": "0BSD",
+  "link": {
+    "source": "/Users/ruobing/opt/anaconda3/pkgs/liblzma-5.8.1-hd471939_0",
+    "type": 1
+  },
+  "md5": "8e1197f652c67e87a9ece738d82cef4f",
+  "name": "liblzma",
+  "package_tarball_full_path": "/Users/ruobing/opt/anaconda3/pkgs/liblzma-5.8.1-hd471939_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/liblzma.5.dylib",
+        "path_type": "hardlink",
+        "sha256": "ba187ffa6c59662513af0c85d2f3f43db732c4e1e7a2bfc517f4a9bba8595bd4",
+        "sha256_in_prefix": "ba187ffa6c59662513af0c85d2f3f43db732c4e1e7a2bfc517f4a9bba8595bd4",
+        "size_in_bytes": 190640
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "3369b8ef0b544d17aebc530a687c0480051e825e8ffcd001b1a5f594fe276159",
+  "size": 104689,
+  "subdir": "osx-64",
+  "timestamp": 1743771137000,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/osx-64/liblzma-5.8.1-hd471939_0.conda",
+  "version": "5.8.1"
+}
