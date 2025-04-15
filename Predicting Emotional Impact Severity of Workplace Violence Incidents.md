@@ -42,7 +42,7 @@ Our extended analysis revealed significant temporal patterns in workplace violen
 
 We analyzed how different professions experience violence during day versus night shifts:
 
-![Profession by Shift](cleaned_data/final/imgs/extended_eda/profession_by_shift.png)
+![Profession by Shift](cleaned_data/final/imgs/time_feature_distribution.png)
 > Some professions show significantly higher night-shift incident rates, suggesting targeted interventions.
 
 ### Violence Type and Emotional Impact
