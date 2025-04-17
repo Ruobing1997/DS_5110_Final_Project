@@ -74,479 +74,479 @@ event_time,victim_profession,victim_primary_job,department,perpetrator_type,viol
 2024-12-16 00:00:00,"Nurse (RN, LPN), Security",Nurse (RN,Patient Room,Patient,Physical,None - No Contact/Unwanted Contact w/No Injury,None - No emotional and/or Psychological Impact,,"Punched, Throwing Object/Breaking Object","Security Called, Physical Restraints Used, Chemical Restraint/Medication Administered, Seclusion of Patient, De-escalation Techniques, Emergency Call/Code",Inpatient Bed Unavailable,,,phase1
 2024-12-19 00:00:00,"Nurse (RN, LPN), Physician/Advanced Practice Provider, Allied Health/Technologist, Security",Nurse (RN,Patient Room,Patient,"Physical, Verbal",None - No Contact/Unwanted Contact w/No Injury,None - No emotional and/or Psychological Impact,,"Kicking/Hitting/Beating, Throwing Object/Breaking Object","Security Called, Law Enforcement Called, Chemical Restraint/Medication Administered, De-escalation Techniques, Emergency Call/Code",Altered Mental Status,,,phase1
 2024-12-24 00:00:00,"Nurse (RN, LPN)",Nurse (RN,Oncology,Employee (Lateral),Verbal,None - No Contact/Unwanted Contact w/No Injury,Mild - Upset/Angry/Scared/Humiliated,,Other,No Security or Law Enforcement Called,Unknown,,,phase1
-,,nan,Unknown,,,,,,,,,,,phase1
-,,nan,Unknown,,,,,,,,,,,phase1
-,,nan,Unknown,,,,,,,,,,,phase1
-,,nan,Unknown,,,,,,,,,,,phase1
-,,nan,Unknown,,,,,,,,,,,phase1
-,,nan,Unknown,,,,,,,,,,,phase1
-,,nan,Unknown,,,,,,,,,,,phase1
-,,nan,Unknown,,,,,,,,,,,phase1
+,,nan,Unknown,,,Unknown,,,,,,,,phase1
+,,nan,Unknown,,,Unknown,,,,,,,,phase1
+,,nan,Unknown,,,Unknown,,,,,,,,phase1
+,,nan,Unknown,,,Unknown,,,,,,,,phase1
+,,nan,Unknown,,,Unknown,,,,,,,,phase1
+,,nan,Unknown,,,Unknown,,,,,,,,phase1
+,,nan,Unknown,,,Unknown,,,,,,,,phase1
+,,nan,Unknown,,,Unknown,,,,,,,,phase1
 ,"Nurse (RN, LPN)",Nurse (RN,Unknown,Patient,Physical,None - No Contact/Unwanted Contact w/No Injury,None - No emotional and/or Psychological Impact,,Biting,No Security or Law Enforcement Called,Abandoned by Guardian,,,phase1
 ,Physician/Advanced Practice Provider,Physician/Advanced Practice Provider,Unknown,Visitor,Verbal,Mild - Mild Soreness/Abrasions/Scratches/Small Bruises,Mild - Upset/Angry/Scared/Humiliated,First Aid,Choking,Security Called,Altered Mental Status,,,phase1
 ,Allied Health/Technologist,Allied Health/Technologist,Unknown,Employee (Lateral),Attempted Violence (near miss),Moderate - Major Soreness/Cuts/Large Bruises,Moderate - Moderate Emotional and/or Psychological Impact with no missed work but return to work with modifications,Employee Health,Grabbing/Pinching/Scratching/Hair Pull,Law Enforcement Called,Ambulance/Transport Unavailable,,,phase1
 ,Rehab Therapy Services,Rehab Therapy Services,Unknown,Other,Written and/or Digital,Severe - Laceration/Fracture(s)/Head Injury,"Severe - Significant Emotional and/or Psychological impact resulting in missed or inability to return to work, interventions required",ED,Harassment,Police Report Completed,CCSU Bed Unavailable,,,phase1
 ,Case Management/Social Work,Case Management/Social Work,Unknown,,,Death or Loss of Limb,Unknown,Unknown,Kicking/Hitting/Beating,Physical Restraints Used,Coming Out of Anesthesia,,,phase1
 ,Education,Education,Unknown,,,Unknown,,,Other,Chemical Restraint/Medication Administered,"community Services Unavailable, Community Services Unavailable",,,phase1
-,Administration/Support Services,Administration/Support Services,Unknown,,,,,,Posturing,Seclusion of Patient,Crisis Services Unavailable,,,phase1
-,Facilities/Plant Operations,Facilities/Plant Operations,Unknown,,,,,,Punched,Pepper Spray Used,Detox Bed Unavailable,,,phase1
-,Nutrition,Nutrition,Unknown,,,,,,Pushing/Shoving,Handcuffs/Shackles Used,Homelessness/Lack of Housing,,,phase1
-,Security,Security,Unknown,,,,,,Sexual Assault/Rape,De-escalation Techniques,Inpatient Bed Unavailable,,,phase1
-,Other,Other,Unknown,,,,,,Shooting,Emergency Call/Code,Jail/Corrections Placement Unavailable,,,phase1
-,,nan,Unknown,,,,,,Spitting,,Long Term Care/SNF Bed Unavailable,,,phase1
-,,nan,Unknown,,,,,,Stabbing,,PNMI/Residential Placement Unavailable,,,phase1
-,,nan,Unknown,,,,,,Stalking,,Psychiatric Bed Unavailable,,,phase1
-,,nan,Unknown,,,,,,Throwing Object/Breaking Object,,Removal of Personal Belongings by Security/Care Team,,,phase1
-,,nan,Unknown,,,,,,Verbal Assault,,Resource (Foster) Home Placement Unavailable,,,phase1
-,,nan,Unknown,,,,,,,,Self-Injurious Behavior,,,phase1
-,,nan,Unknown,,,,,,,,Under Influence of Substance(s),,,phase1
-,,nan,Unknown,,,,,,,,Unknown,,,phase1
-2024-12-01 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,,<N/S>,<N/S>,Hit w/ Fist; Pushed; Scratched; Threat of Violence,Behavioral Expectations Reviewed; Called Code Gray; De-escalation Techniques Utilized; Mechanical Restraint; Physical Hold,<N/S>,,,december
-2024-12-02 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,Mild,None - No emotional and/or psychological impact,Other (please specify),Unsure,De-escalation Techniques Utilized; Notified Supervisor; Physical Hold,<N/S>,,,december
-2024-12-02 00:00:00,<N/S>,<N/S>,,Other,Verbal,,<N/S>,<N/S>,Unwelcome or Offensive Language/Gestures,Notified Supervisor,<N/S>,,,december
-2024-12-03 00:00:00,<N/S>,<N/S>,,Outpatient,Written/Digital,,<N/S>,<N/S>,Unwelcome or Offensive Language/Gestures,Notified Supervisor,<N/S>,,,december
-2024-12-03 00:00:00,"Nurse (RN, LPN, LNA)",Nurse (RN,,Inpatient,Physical,,<N/S>,<N/S>,Intimidation; Threat of Violence,Notified Clinical Physician Resources; Notified Security,N/A or Unknown,,,december
-2024-12-03 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,Moderate,None - No emotional and/or psychological impact,ED,Aggression Toward an Inanimate Object,De-escalation Techniques Utilized,<N/S>,,,december
-2024-12-03 00:00:00,<N/S>,<N/S>,,Outpatient,Verbal,,<N/S>,<N/S>,"Profane, Lewd or Aggressive Language; Unwelcome or Offensive Language/Gestures",Behavioral Expectations Reviewed; De-escalation Techniques Utilized,<N/S>,,,december
-2024-12-03 00:00:00,<N/S>,<N/S>,,Outpatient,Verbal,,<N/S>,<N/S>,"Profane, Lewd or Aggressive Language",Notified Supervisor,<N/S>,,,december
-2024-12-03 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,Moderate,Mild - Upset / Angry / Scared / Humiliated,<N/S>,code situation,Called Code Gray,<N/S>,,,december
-2024-12-03 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,Other,None - No emotional and/or psychological impact,Other (please specify),Hit w/ Fist,Behavioral Expectations Reviewed; Called Code Gray; Chemical Restraint; De-escalation Techniques Utilized; Notified Clinical Physician Resources; Notified Security,<N/S>,,,december
-2024-12-04 00:00:00,Administration/Support Services,Administration/Support Services,,Inpatient,Verbal,,<N/S>,<N/S>,Screaming or Yelling,Notified Supervisor,<N/S>,,,december
-2024-12-04 00:00:00,"Nurse (RN, LPN, LNA)",Nurse (RN,,Outpatient,Verbal,,<N/S>,<N/S>,"Gender / Sexist Comments; Profane, Lewd or Aggressive Language; Racial / Cultural Comments; Screaming or Yelling; Unwelcome or Offensive Language/Gestures",Behavioral Expectations Reviewed; De-escalation Techniques Utilized; Notified Clinical Physician Resources; Notified Security,<N/S>,,,december
-2024-12-04 00:00:00,<N/S>,<N/S>,,Outpatient,Verbal,,<N/S>,<N/S>,Unwelcome or Offensive Language/Gestures,De-escalation Techniques Utilized,<N/S>,,,december
-2024-12-04 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,,<N/S>,<N/S>,threw dinner tray,Notified Supervisor,<N/S>,,,december
-2024-12-04 00:00:00,<N/S>,<N/S>,,Outpatient,Verbal,,<N/S>,<N/S>,Intimidation,Notified Supervisor,<N/S>,,,december
-2024-12-04 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,,<N/S>,<N/S>,Threw cup of water on writer,Behavioral Expectations Reviewed,<N/S>,,,december
-2024-12-04 00:00:00,Allied Health/Technologist,Allied Health/Technologist,,Inpatient,Physical,Mild,Moderate - Moderate emotional and/or psychological impact with no missed work.,Other (please specify),Kicked,Mechanical Restraint; Notified Supervisor,<N/S>,,,december
-2024-12-05 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,Other,Mild - Upset / Angry / Scared / Humiliated,Other (please specify),Hit w/ Fist,Physical Hold,<N/S>,,,december
-2024-12-04 00:00:00,<N/S>,<N/S>,,Other,Verbal,,<N/S>,<N/S>,Unwelcome or Offensive Language/Gestures,De-escalation Techniques Utilized,<N/S>,,,december
-2024-12-05 00:00:00,<N/S>,<N/S>,,Outpatient,Verbal,,<N/S>,<N/S>,"Intimidation; Profane, Lewd or Aggressive Language; Threat of Violence; Unwelcome or Offensive Language/Gestures",De-escalation Techniques Utilized; Notified Supervisor,<N/S>,,,december
-2024-12-03 00:00:00,<N/S>,<N/S>,,Outpatient,Verbal,,<N/S>,<N/S>,"Intimidation; Profane, Lewd or Aggressive Language; Screaming or Yelling",Notified Supervisor,<N/S>,,,december
-2024-12-06 00:00:00,<N/S>,<N/S>,,Outpatient,Verbal,,<N/S>,<N/S>,Throwing things in parking lot; Unwelcome or Offensive Language/Gestures,De-escalation Techniques Utilized,,,,december
-2024-12-06 00:00:00,<N/S>,<N/S>,,Outpatient,Verbal,,<N/S>,<N/S>,Intimidation,De-escalation Techniques Utilized; Notified Supervisor,<N/S>,,,december
-2024-12-06 00:00:00,<N/S>,<N/S>,,Outpatient,Verbal,,<N/S>,<N/S>,"Comment of ""This is how it is in the US""; Intimidation",Behavioral Expectations Reviewed,<N/S>,,,december
-2024-12-06 00:00:00,<N/S>,<N/S>,,Outpatient,Verbal,,<N/S>,<N/S>,"Gender / Sexist Comments; Profane, Lewd or Aggressive Language",Behavioral Expectations Reviewed; Notified Supervisor,<N/S>,,,december
-2024-12-06 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,,<N/S>,<N/S>,hit with open arm,Behavioral Expectations Reviewed; De-escalation Techniques Utilized,<N/S>,,,december
-2024-12-04 00:00:00,<N/S>,<N/S>,,Other,Verbal,,<N/S>,<N/S>,Intimidation; Screaming or Yelling,Notified Supervisor,<N/S>,,,december
-2024-12-06 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,,<N/S>,<N/S>,Choked,De-escalation Techniques Utilized,<N/S>,,,december
-2024-12-06 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,Moderate,None - No emotional and/or psychological impact,Other (please specify),Choked,De-escalation Techniques Utilized,<N/S>,,,december
-2024-12-07 00:00:00,<N/S>,<N/S>,,Inpatient,Verbal,,<N/S>,<N/S>,Intimidation; Screaming or Yelling; Threat of Violence,De-escalation Techniques Utilized; Notified Clinical Physician Resources; Notified Supervisor,<N/S>,,,december
-2024-12-07 00:00:00,Allied Health/Technologist,Allied Health/Technologist,,Inpatient,Physical,,<N/S>,<N/S>,headbutted ,De-escalation Techniques Utilized; Physical Hold,<N/S>,,,december
-2024-12-06 00:00:00,<N/S>,<N/S>,,Outpatient,Physical,,Moderate - Moderate emotional and/or psychological impact with no missed work.,ED,Hit w/ Fist,Notified Clinical Physician Resources; Notified Security,<N/S>,,,december
-2024-12-07 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,,<N/S>,<N/S>,Grabbed; Scratched; Slapped,Behavioral Expectations Reviewed; De-escalation Techniques Utilized; Notified Security; Physical Hold,<N/S>,,,december
-2024-12-07 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,,<N/S>,<N/S>,Assault w/ Bodily Fluids; Grabbed; Hit w/ Fist; Hit w/ Object; Pushed; Scratched; Threat of Violence,De-escalation Techniques Utilized; Notified Security,<N/S>,,,december
-2024-12-08 00:00:00,<N/S>,<N/S>,,Outpatient,Verbal,,<N/S>,<N/S>,"Profane, Lewd or Aggressive Language",De-escalation Techniques Utilized; Notified Clinical Physician Resources; Notified Supervisor,<N/S>,,,december
-2024-12-08 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,,<N/S>,<N/S>,Kicked,Behavioral Expectations Reviewed; De-escalation Techniques Utilized; Notified Clinical Physician Resources; Notified Supervisor,<N/S>,,,december
-2024-12-07 00:00:00,"Nurse (RN, LPN, LNA)",Nurse (RN,,Inpatient,Physical,,<N/S>,<N/S>,Pushed,Chemical Restraint; De-escalation Techniques Utilized; Mechanical Restraint; Notified Clinical Physician Resources; Notified Security; Notified Supervisor; Physical Hold,Long Term Care/SNF Bed Unavailable,,,december
-2024-12-08 00:00:00,<N/S>,<N/S>,,Inpatient,Verbal,,<N/S>,<N/S>,Threat of Violence,Behavioral Expectations Reviewed,<N/S>,,,december
-2024-12-07 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,,<N/S>,<N/S>,Kicked,Called Code Gray; De-escalation Techniques Utilized,<N/S>,,,december
-2024-12-08 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,Other,Severe - Significant Emotional and/or psychological impact resulting in missed work.,Other (please specify),Kicked,Called Code Gray; De-escalation Techniques Utilized; Notified Clinical Physician Resources; Notified Supervisor; Physical Hold,<N/S>,,,december
-2024-12-09 00:00:00,<N/S>,<N/S>,,Other,Physical,Moderate,None - No emotional and/or psychological impact,ED,Grabbed,Notified Clinical Physician Resources; Notified Security; Notified Supervisor,<N/S>,,,december
-2024-12-07 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,,<N/S>,<N/S>,Assault w/ Bodily Fluids; Bitten; Grabbed; Hit w/ Fist; Hit w/ Object; Intimidation; Slapped; Threat of Violence,Behavioral Expectations Reviewed; Called Code Gray; De-escalation Techniques Utilized; Mechanical Restraint; Notified Clinical Physician Resources; Notified Security; Notified Supervisor; Physical Hold,<N/S>,,,december
-2024-12-07 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,,<N/S>,<N/S>,Hair Pulling; Kicked; Slapped,Behavioral Expectations Reviewed; Chemical Restraint; De-escalation Techniques Utilized; Notified Security; Notified Supervisor; Physical Hold,<N/S>,,,december
-2024-12-06 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,Mild,Mild - Upset / Angry / Scared / Humiliated,Other (please specify),Hit w/ Fist; Threat of Violence,Behavioral Expectations Reviewed; Called Code Gray; De-escalation Techniques Utilized,<N/S>,,,december
-2024-12-05 00:00:00,<N/S>,<N/S>,,Outpatient,Written/Digital,,<N/S>,<N/S>,Unwelcome or Offensive Language/Gestures,Notified Supervisor,<N/S>,,,december
-2024-12-09 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,,<N/S>,<N/S>,Thrown object,De-escalation Techniques Utilized,<N/S>,,,december
-2024-12-09 00:00:00,<N/S>,<N/S>,,Outpatient,Physical,Mild,None - No emotional and/or psychological impact,<N/S>,Bitten; Grabbed,Behavioral Expectations Reviewed; De-escalation Techniques Utilized,<N/S>,,,december
-2024-12-09 00:00:00,Physician/APP,Physician/APP,,Outpatient,Verbal,,<N/S>,<N/S>,"Profane, Lewd or Aggressive Language; Screaming or Yelling; Unwelcome or Offensive Language/Gestures",Behavioral Expectations Reviewed; De-escalation Techniques Utilized,<N/S>,,,december
-2024-12-06 00:00:00,Physician/APP,Physician/APP,,Outpatient,Physical,,<N/S>,<N/S>,Hit w/ Fist,Behavioral Expectations Reviewed; De-escalation Techniques Utilized; Notified Security; Notified Supervisor,<N/S>,,,december
-2024-12-03 00:00:00,<N/S>,<N/S>,,Outpatient,Property Damage/Vandalism,,<N/S>,<N/S>,Aggression Toward an Inanimate Object,Notified Security,<N/S>,,,december
-2024-12-10 00:00:00,<N/S>,<N/S>,,Outpatient,Verbal,,<N/S>,<N/S>,"Profane, Lewd or Aggressive Language; Screaming or Yelling",De-escalation Techniques Utilized,<N/S>,,,december
-2024-12-10 00:00:00,<N/S>,<N/S>,,Outpatient,Verbal,,<N/S>,<N/S>,"Intimidation; Profane, Lewd or Aggressive Language; Screaming or Yelling; Threat of Violence; Unwelcome or Offensive Language/Gestures",Behavioral Expectations Reviewed; De-escalation Techniques Utilized; Notified Security,<N/S>,,,december
-2024-12-10 00:00:00,<N/S>,<N/S>,,Visitor,Verbal,,<N/S>,<N/S>,"Profane, Lewd or Aggressive Language; Screaming or Yelling; Unwelcome or Offensive Language/Gestures",Notified Security,<N/S>,,,december
-2024-12-10 00:00:00,<N/S>,<N/S>,,Outpatient,Verbal,,<N/S>,<N/S>,"Intimidation; Profane, Lewd or Aggressive Language; Screaming or Yelling",De-escalation Techniques Utilized; Notified Clinical Physician Resources; Notified Supervisor,<N/S>,,,december
-2024-12-10 00:00:00,<N/S>,<N/S>,,Outpatient,Verbal,,<N/S>,<N/S>,Intimidation; Screaming or Yelling,Behavioral Expectations Reviewed; De-escalation Techniques Utilized; Notified Security,<N/S>,,,december
-2024-12-10 00:00:00,<N/S>,<N/S>,,Inpatient,Verbal,,<N/S>,<N/S>,"Intimidation; Profane, Lewd or Aggressive Language; Screaming or Yelling",Notified Supervisor,<N/S>,,,december
-2024-12-10 00:00:00,<N/S>,<N/S>,,Inpatient,Verbal,,<N/S>,<N/S>,"Intimidation; Profane, Lewd or Aggressive Language; Screaming or Yelling",De-escalation Techniques Utilized; Notified Supervisor,<N/S>,,,december
-2024-12-10 00:00:00,<N/S>,<N/S>,,Inpatient,Verbal,,<N/S>,<N/S>,"Intimidation; Profane, Lewd or Aggressive Language; Screaming or Yelling; Threat of Violence",Behavioral Expectations Reviewed; De-escalation Techniques Utilized; Notified Clinical Physician Resources; Notified Supervisor,<N/S>,,,december
-2024-12-11 00:00:00,<N/S>,<N/S>,,Outpatient,Verbal,,<N/S>,<N/S>,"Intimidation; Profane, Lewd or Aggressive Language; Unwelcome or Offensive Language/Gestures",Notified Supervisor,<N/S>,,,december
-2024-12-11 00:00:00,Security,Security,,Other,Verbal,,<N/S>,<N/S>,accusing patient of shooting up drugs; Intimidation; Screaming or Yelling,Called 911,N/A or Unknown,,,december
-2024-12-09 00:00:00,<N/S>,<N/S>,,Outpatient,Physical,,<N/S>,<N/S>,Pushed; stuck by patient with both hands,De-escalation Techniques Utilized,<N/S>,,,december
-2024-12-12 00:00:00,<N/S>,<N/S>,,Outpatient,Verbal,,<N/S>,<N/S>,Intimidation,De-escalation Techniques Utilized; Notified Security; Notified Supervisor,<N/S>,,,december
-2024-12-06 00:00:00,<N/S>,<N/S>,,Outpatient,Verbal,,<N/S>,<N/S>,"Profane, Lewd or Aggressive Language; Unwelcome or Offensive Language/Gestures",De-escalation Techniques Utilized; Notified Supervisor,<N/S>,,,december
-2024-12-10 00:00:00,Administration/Support Services,Administration/Support Services,,Outpatient,Verbal,,<N/S>,<N/S>,"Profane, Lewd or Aggressive Language",De-escalation Techniques Utilized; Notified Supervisor,<N/S>,,,december
-2024-12-12 00:00:00,<N/S>,<N/S>,,Resident (LTC),Verbal,,<N/S>,<N/S>,"Intimidation; Profane, Lewd or Aggressive Language",De-escalation Techniques Utilized,<N/S>,,,december
-2024-12-12 00:00:00,<N/S>,<N/S>,,Outpatient,Verbal,,<N/S>,<N/S>,"Gender / Sexist Comments; Profane, Lewd or Aggressive Language; Screaming or Yelling; Unwelcome or Offensive Language/Gestures",Behavioral Expectations Reviewed; Called 911; De-escalation Techniques Utilized; Notified Security,<N/S>,,,december
-2024-12-12 00:00:00,<N/S>,<N/S>,,Outpatient,Verbal,,<N/S>,<N/S>,Intimidation; Screaming or Yelling; Unwelcome or Offensive Language/Gestures,Behavioral Expectations Reviewed,<N/S>,,,december
-2024-12-13 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,Mild,None - No emotional and/or psychological impact,ED,Kicked; Scratched,Chemical Restraint; De-escalation Techniques Utilized; Notified Security; Notified Supervisor; Physical Hold; Seclusion,<N/S>,,,december
-2024-12-13 00:00:00,<N/S>,<N/S>,,Other,Verbal,,<N/S>,<N/S>,Harassment,Notified Supervisor,<N/S>,,,december
-2024-12-13 00:00:00,Physician/APP,Physician/APP,,Outpatient,Written/Digital,,<N/S>,<N/S>,"Intimidation; Profane, Lewd or Aggressive Language",Behavioral Expectations Reviewed,<N/S>,,,december
-2024-12-13 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,Other,Moderate - Moderate emotional and/or psychological impact with no missed work.,<N/S>,Hit w/ Object,Behavioral Expectations Reviewed; De-escalation Techniques Utilized,<N/S>,,,december
-2024-12-14 00:00:00,"Nurse (RN, LPN, LNA)",Nurse (RN,,Inpatient,Physical,,<N/S>,<N/S>,Hit w/ Fist; Kicked,Chemical Restraint; De-escalation Techniques Utilized; Mechanical Restraint; Physical Hold,<N/S>,,,december
-2024-12-14 00:00:00,"Nurse (RN, LPN, LNA)",Nurse (RN,,Inpatient,Physical,Mild,None - No emotional and/or psychological impact,<N/S>,Bitten,Behavioral Expectations Reviewed; De-escalation Techniques Utilized; Notified Clinical Physician Resources; Notified Security; Notified Supervisor; Physical Hold,<N/S>,,,december
-2024-12-14 00:00:00,Security,Security,,Outpatient,Verbal,,<N/S>,<N/S>,Intimidation; spit in face; Threat of Violence,<N/S>,<N/S>,,,december
-2024-12-14 00:00:00,Security,Security,,Inpatient,Physical,,<N/S>,<N/S>,<N/S>,<N/S>,<N/S>,,,december
-2024-12-14 00:00:00,<N/S>,<N/S>,,Inpatient,Verbal,,<N/S>,<N/S>,Racial / Cultural Comments; Unwelcome or Offensive Language/Gestures,Behavioral Expectations Reviewed; De-escalation Techniques Utilized,<N/S>,,,december
-2024-12-13 00:00:00,<N/S>,<N/S>,,Inpatient,Verbal,,<N/S>,<N/S>,"Profane, Lewd or Aggressive Language; Unwelcome or Offensive Language/Gestures",Behavioral Expectations Reviewed; De-escalation Techniques Utilized,<N/S>,,,december
-2024-12-14 00:00:00,<N/S>,<N/S>,,Inpatient,Verbal,,<N/S>,<N/S>,"Profane, Lewd or Aggressive Language; Unwelcome or Offensive Language/Gestures",Behavioral Expectations Reviewed,<N/S>,,,december
-2024-12-14 00:00:00,<N/S>,<N/S>,,Resident (LTC),Verbal,,<N/S>,<N/S>,"Intimidation; Profane, Lewd or Aggressive Language",De-escalation Techniques Utilized,<N/S>,,,december
-2024-12-14 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,,<N/S>,<N/S>,Bitten,De-escalation Techniques Utilized,<N/S>,,,december
-2024-12-14 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,Mild,None - No emotional and/or psychological impact,ED,Assault w/ Bodily Fluids; Grabbed; Hit w/ Fist; Intimidation; Pushed; Scratched; Threat of Violence,De-escalation Techniques Utilized; Mechanical Restraint; Notified Security; Physical Hold,<N/S>,,,december
-2024-12-14 00:00:00,Other,Other,,Inpatient,Physical,Other,Mild - Upset / Angry / Scared / Humiliated,ED,Kicked,Notified Supervisor,<N/S>,,,december
-2024-12-14 00:00:00,<N/S>,<N/S>,,Inpatient,Verbal,,<N/S>,<N/S>,"Intimidation; Profane, Lewd or Aggressive Language; Racial / Cultural Comments; Screaming or Yelling; Threat of Violence",De-escalation Techniques Utilized,<N/S>,,,december
-2024-12-15 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,,<N/S>,<N/S>,Grabbed; Intimidation; Threat of Violence,Behavioral Expectations Reviewed; Chemical Restraint; De-escalation Techniques Utilized; Notified Clinical Physician Resources,<N/S>,,,december
-2024-12-14 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,,<N/S>,<N/S>,Bitten; Grabbed; Pushed,Behavioral Expectations Reviewed; De-escalation Techniques Utilized; Notified Supervisor,<N/S>,,,december
-2024-12-15 00:00:00,<N/S>,<N/S>,,Inpatient,Property Damage/Vandalism,,<N/S>,<N/S>,Aggression Toward an Inanimate Object,Notified Supervisor,<N/S>,,,december
-2024-12-15 00:00:00,<N/S>,<N/S>,,Outpatient,Written/Digital,,<N/S>,<N/S>,"Profane, Lewd or Aggressive Language; Threat of Violence",Notified Supervisor,<N/S>,,,december
-2024-12-15 00:00:00,Other,Other,,Inpatient,Physical,,<N/S>,<N/S>,Hit w/ head; Pinched; Unwelcome or Offensive Touching,De-escalation Techniques Utilized,Mom unable to take patient home; PNMI/Residential Placement Unavailable,,,december
-2024-12-16 00:00:00,<N/S>,<N/S>,,Outpatient,Verbal,,<N/S>,<N/S>,"Intimidation; Profane, Lewd or Aggressive Language; Screaming or Yelling; Threat of Violence",Called 911; De-escalation Techniques Utilized; Notified Security; Notified Supervisor,<N/S>,,,december
-2024-12-16 00:00:00,<N/S>,<N/S>,,Visitor,Verbal,,<N/S>,<N/S>,"Intimidation; Profane, Lewd or Aggressive Language; Screaming or Yelling; Threat of Violence; Unwelcome or Offensive Language/Gestures",Called 911; De-escalation Techniques Utilized; Notified Security; Notified Supervisor,<N/S>,,,december
-2024-12-13 00:00:00,<N/S>,<N/S>,,Outpatient,Verbal,,<N/S>,<N/S>,Intimidation,Notified Supervisor,<N/S>,,,december
-2024-12-16 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,,<N/S>,<N/S>,Threat of Violence,De-escalation Techniques Utilized; Notified Supervisor,N/A or Unknown,,,december
-2024-12-16 00:00:00,<N/S>,<N/S>,,Outpatient,Verbal,,<N/S>,<N/S>,Intimidation; Unwelcome or Offensive Language/Gestures,Notified Clinical Physician Resources,<N/S>,,,december
-2024-12-17 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,Mild,None - No emotional and/or psychological impact,Other (please specify),Hit w/ Fist,De-escalation Techniques Utilized,<N/S>,,,december
-2024-12-17 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,,<N/S>,<N/S>,Hit w/ Fist,Called Code Gray; Mechanical Restraint; Physical Hold,<N/S>,,,december
-2024-12-17 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,,<N/S>,<N/S>,Kicked,Chemical Restraint; De-escalation Techniques Utilized; Notified Clinical Physician Resources; Notified Supervisor,<N/S>,,,december
-2024-12-17 00:00:00,"Nurse (RN, LPN, LNA)",Nurse (RN,,Outpatient,Verbal,,<N/S>,<N/S>,"Profane, Lewd or Aggressive Language; Unwelcome or Offensive Language/Gestures",De-escalation Techniques Utilized,N/A or Unknown,,,december
-2024-12-16 00:00:00,<N/S>,<N/S>,,Outpatient,Verbal,,<N/S>,<N/S>,Screaming or Yelling; THROWING THINGS IN THE ROOM,Called Code Gray,<N/S>,,,december
-2024-12-17 00:00:00,Allied Health/Technologist,Allied Health/Technologist,,Inpatient,Physical,,<N/S>,<N/S>,Bitten; Choked; Grabbed; Kicked; Pushed,Behavioral Expectations Reviewed; De-escalation Techniques Utilized; Notified Supervisor,Psychiatric Bed Unavailable,,,december
-2024-12-17 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,Mild,Mild - Upset / Angry / Scared / Humiliated,Other (please specify),Kicked,Notified Supervisor,<N/S>,,,december
-2024-12-17 00:00:00,<N/S>,<N/S>,,Outpatient,Verbal,,<N/S>,<N/S>,Intimidation; Screaming or Yelling,De-escalation Techniques Utilized,<N/S>,,,december
-2024-12-17 00:00:00,<N/S>,<N/S>,,Outpatient,Verbal,,<N/S>,<N/S>,Racial / Cultural Comments; Screaming or Yelling,De-escalation Techniques Utilized; Notified Security; Notified Supervisor,<N/S>,,,december
-2024-12-17 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,,<N/S>,<N/S>,Kicked,Called Code Gray; De-escalation Techniques Utilized; Notified Clinical Physician Resources; Notified Security; Notified Supervisor; Physical Hold,<N/S>,,,december
-2024-12-17 00:00:00,<N/S>,<N/S>,,Outpatient,Physical,,<N/S>,<N/S>,Kicked,De-escalation Techniques Utilized; Notified Security,<N/S>,,,december
-2024-12-17 00:00:00,<N/S>,<N/S>,,Outpatient,Physical,Mild,Mild - Upset / Angry / Scared / Humiliated,ED,Grabbed; Intimidation; Threat of Violence; Unwelcome or Offensive Touching,Called 911; De-escalation Techniques Utilized; Notified Security; Notified Supervisor,<N/S>,,,december
-2024-12-17 00:00:00,<N/S>,<N/S>,,Inpatient,Property Damage/Vandalism,,<N/S>,<N/S>,Aggression Toward an Inanimate Object; Verbal aggression toward staff,Called Code Gray; De-escalation Techniques Utilized,<N/S>,,,december
-2024-12-18 00:00:00,<N/S>,<N/S>,,Other,Verbal,,<N/S>,<N/S>,"Profane, Lewd or Aggressive Language",Notified Supervisor,<N/S>,,,december
-2024-12-18 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,,<N/S>,<N/S>,Kicked,De-escalation Techniques Utilized,<N/S>,,,december
-2024-12-18 00:00:00,Physician/APP,Physician/APP,,Other,Written/Digital,,<N/S>,<N/S>,Intimidation; Threat of Violence,Behavioral Expectations Reviewed; De-escalation Techniques Utilized; Physical Hold,<N/S>,,,december
-2024-12-18 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,,<N/S>,<N/S>,Pushed,De-escalation Techniques Utilized; Physical Hold,<N/S>,,,december
-2024-12-17 00:00:00,Other,Other,,Outpatient,Verbal,,<N/S>,<N/S>,Gender / Sexist Comments; Unwelcome or Offensive Language/Gestures,Notified Supervisor,N/A or Unknown,,,december
-2024-12-19 00:00:00,<N/S>,<N/S>,,Visitor,Verbal,,<N/S>,<N/S>,"Intimidation; Profane, Lewd or Aggressive Language; Screaming or Yelling; Threat of Violence",Behavioral Expectations Reviewed; De-escalation Techniques Utilized; Notified Security; Notified Supervisor,<N/S>,,,december
-2024-12-19 00:00:00,<N/S>,<N/S>,,Outpatient,Verbal,,<N/S>,<N/S>,"Profane, Lewd or Aggressive Language; Screaming or Yelling; Unwelcome or Offensive Language/Gestures",Notified Security,<N/S>,,,december
-2024-12-19 00:00:00,<N/S>,<N/S>,,Outpatient,Verbal,,<N/S>,<N/S>,"Profane, Lewd or Aggressive Language",De-escalation Techniques Utilized; Notified Supervisor,<N/S>,,,december
-2024-12-20 00:00:00,<N/S>,<N/S>,,Outpatient,Verbal,,<N/S>,<N/S>,Screaming or Yelling; Unwelcome or Offensive Language/Gestures,De-escalation Techniques Utilized; Notified Supervisor,<N/S>,,,december
-2024-12-20 00:00:00,Education,Education,,Outpatient,Physical,Other,None - No emotional and/or psychological impact,Other (please specify),Hit w/ Fist,De-escalation Techniques Utilized; Physical Hold; Seclusion,<N/S>,,,december
-2024-12-19 00:00:00,<N/S>,<N/S>,,Outpatient,Physical,Moderate,None - No emotional and/or psychological impact,<N/S>,Bitten,Behavioral Expectations Reviewed; De-escalation Techniques Utilized,<N/S>,,,december
-2024-12-20 00:00:00,<N/S>,<N/S>,,Outpatient,Verbal,,<N/S>,<N/S>,"Gender / Sexist Comments; Profane, Lewd or Aggressive Language",Behavioral Expectations Reviewed; Notified Supervisor,<N/S>,,,december
-2024-12-13 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,,<N/S>,<N/S>,Assault w/ Bodily Fluids,Notified Supervisor,<N/S>,,,december
-2024-12-20 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,Mild,None - No emotional and/or psychological impact,Other (please specify),Hit w/ Object,De-escalation Techniques Utilized; Notified Clinical Physician Resources; Notified Supervisor,<N/S>,,,december
-2024-12-21 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,,<N/S>,<N/S>,Intimidation; Screaming or Yelling; Threat of Violence,Behavioral Expectations Reviewed; De-escalation Techniques Utilized; Notified Supervisor,<N/S>,,,december
-2024-12-21 00:00:00,Other,Other,,Inpatient,Physical,,<N/S>,<N/S>,Hit w/ Fist,De-escalation Techniques Utilized; Notified Supervisor,<N/S>,,,december
-2024-12-21 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,,<N/S>,<N/S>,Kicked,Behavioral Expectations Reviewed; De-escalation Techniques Utilized; Notified Supervisor,<N/S>,,,december
-2024-12-21 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,,<N/S>,<N/S>,Unwelcome or Offensive Touching,De-escalation Techniques Utilized,N/A or Unknown,,,december
-2024-12-22 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,,<N/S>,<N/S>,Grabbed; Hit w/ Fist; Pushed,Called Code Gray; Physical Hold,<N/S>,,,december
-2024-12-19 00:00:00,<N/S>,<N/S>,,Visitor,Verbal,,<N/S>,<N/S>,"Profane, Lewd or Aggressive Language",Behavioral Expectations Reviewed; De-escalation Techniques Utilized; Notified Supervisor,<N/S>,,,december
-2024-12-20 00:00:00,<N/S>,<N/S>,,Outpatient,Verbal,,<N/S>,<N/S>,Threat of Violence,Behavioral Expectations Reviewed; De-escalation Techniques Utilized; Notified Security; Notified Supervisor,<N/S>,,,december
-2024-12-23 00:00:00,<N/S>,<N/S>,,Outpatient,Verbal,,<N/S>,<N/S>,"Profane, Lewd or Aggressive Language; Screaming or Yelling; Unwelcome or Offensive Language/Gestures",De-escalation Techniques Utilized; Notified Supervisor,<N/S>,,,december
-2024-12-23 00:00:00,"Nurse (RN, LPN, LNA)",Nurse (RN,,Outpatient,Verbal,,<N/S>,<N/S>,Intimidation; Screaming or Yelling,De-escalation Techniques Utilized,<N/S>,,,december
-2024-12-23 00:00:00,<N/S>,<N/S>,,Other,Physical,Severe,None - No emotional and/or psychological impact,ED,Aggression Toward an Inanimate Object,Behavioral Expectations Reviewed,<N/S>,,,december
-2024-12-22 00:00:00,"Nurse (RN, LPN, LNA)",Nurse (RN,,Inpatient,Physical,,<N/S>,<N/S>,Hit w/ Fist,Behavioral Expectations Reviewed; Chemical Restraint; De-escalation Techniques Utilized; Notified Clinical Physician Resources,Homelessness/Lack of Housing,,,december
-2024-12-23 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,,<N/S>,<N/S>,Assault w/ Weapon; Threat of Violence,Called 911; Notified Supervisor,<N/S>,,,december
-2024-12-23 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,Mild,None - No emotional and/or psychological impact,<N/S>,Grabbed; Scratched,Physical Hold,<N/S>,,,december
-2024-12-24 00:00:00,"Nurse (RN, LPN, LNA)",Nurse (RN,,Inpatient,Physical,,<N/S>,<N/S>,Intimidation; Stalking or Terrorizing; Unwelcome or Offensive Touching,De-escalation Techniques Utilized; Notified Clinical Physician Resources; Notified Supervisor,<N/S>,,,december
-2024-12-25 00:00:00,"Nurse (RN, LPN, LNA)",Nurse (RN,,Inpatient,Physical,,<N/S>,<N/S>,Pushed,Called Code Gray,<N/S>,,,december
-2024-12-24 00:00:00,<N/S>,<N/S>,,Outpatient,Verbal,,<N/S>,<N/S>,"Gender / Sexist Comments; Intimidation; Profane, Lewd or Aggressive Language; Racial / Cultural Comments; Unwelcome or Offensive Language/Gestures",Notified Supervisor,<N/S>,,,december
-2024-12-26 00:00:00,<N/S>,<N/S>,,Outpatient,Property Damage/Vandalism,,<N/S>,<N/S>,"Aggression Toward an Inanimate Object; yelling, swearing, intimidation; Destruction of property",Called 911; De-escalation Techniques Utilized; Notified Security,<N/S>,,,december
-2024-12-26 00:00:00,Allied Health/Technologist,Allied Health/Technologist,,Outpatient,Verbal,,<N/S>,<N/S>,Screaming or Yelling,Notified Supervisor,<N/S>,,,december
-2024-12-26 00:00:00,<N/S>,<N/S>,,Inpatient,Verbal,,<N/S>,<N/S>,Intimidation; Screaming or Yelling; Threat of Violence; Unwelcome or Offensive Language/Gestures,Called Code Gray; De-escalation Techniques Utilized; Notified Clinical Physician Resources; Notified Security; Notified Supervisor,<N/S>,,,december
-2024-12-27 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,,<N/S>,<N/S>,Hit w/ Fist,Behavioral Expectations Reviewed; Called Code Gray; De-escalation Techniques Utilized,<N/S>,,,december
-2024-12-27 00:00:00,<N/S>,<N/S>,,Other,Verbal,,<N/S>,<N/S>,Intimidation; Screaming or Yelling,Notified Supervisor,<N/S>,,,december
-2024-12-28 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,,<N/S>,<N/S>,Hit w/ Fist; Threat of Violence,Behavioral Expectations Reviewed; De-escalation Techniques Utilized; Notified Supervisor,<N/S>,,,december
-2024-12-28 00:00:00,Allied Health/Technologist,Allied Health/Technologist,,Inpatient,Verbal,,<N/S>,<N/S>,Unwelcome or Offensive Language/Gestures,Behavioral Expectations Reviewed,<N/S>,,,december
-2024-12-28 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,,<N/S>,<N/S>,Grabbed,De-escalation Techniques Utilized; Notified Supervisor,<N/S>,,,december
-2024-12-25 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,,<N/S>,<N/S>,Hit w/ Object,Called Code Gray; De-escalation Techniques Utilized; Notified Security; Physical Hold,<N/S>,,,december
-2024-12-29 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,,<N/S>,<N/S>,Hit w/ Fist; Kicked; Threat of Violence,Behavioral Expectations Reviewed; De-escalation Techniques Utilized; Notified Supervisor,<N/S>,,,december
-2024-12-25 00:00:00,Other,Other,,Inpatient,Physical,,<N/S>,<N/S>,Hit w/ Fist,Called Code Gray; De-escalation Techniques Utilized; Notified Security; Physical Hold,<N/S>,,,december
-2024-12-29 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,,<N/S>,<N/S>,Slapped,De-escalation Techniques Utilized,<N/S>,,,december
-2024-12-29 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,Mild,None - No emotional and/or psychological impact,<N/S>,Hit w/ Fist,Called Code Gray; Chemical Restraint; De-escalation Techniques Utilized; Notified Clinical Physician Resources; Notified Security; Notified Supervisor; Physical Hold,<N/S>,,,december
-2024-12-29 00:00:00,<N/S>,<N/S>,,Inpatient,Verbal,,<N/S>,<N/S>,Screaming or Yelling; Threat of Violence; Unwelcome or Offensive Language/Gestures,Behavioral Expectations Reviewed; Called Code Gray; De-escalation Techniques Utilized; Notified Clinical Physician Resources; Notified Security; Notified Supervisor,<N/S>,,,december
-2024-12-29 00:00:00,"Nurse (RN, LPN, LNA)",Nurse (RN,,Outpatient,Physical,Other,Mild - Upset / Angry / Scared / Humiliated,<N/S>,Hit w/ Fist,Behavioral Expectations Reviewed; De-escalation Techniques Utilized; Notified Security; Notified Supervisor,<N/S>,,,december
-2024-12-29 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,,<N/S>,<N/S>,Hit w/ Fist,Called 911; De-escalation Techniques Utilized; Notified Security; Notified Supervisor,<N/S>,,,december
-2024-12-30 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,,<N/S>,<N/S>,Assault w/ Bodily Fluids; Hit w/ Fist,Called Code Gray; De-escalation Techniques Utilized; Notified Security; Notified Supervisor; Physical Hold; Seclusion,<N/S>,,,december
-2024-12-30 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,,<N/S>,<N/S>,Hit w/ Fist,Called Code Gray,<N/S>,,,december
-2024-12-30 00:00:00,<N/S>,<N/S>,,Outpatient,Verbal,,<N/S>,<N/S>,Intimidation,De-escalation Techniques Utilized,<N/S>,,,december
-2024-12-30 00:00:00,<N/S>,<N/S>,,Outpatient,Verbal,,<N/S>,<N/S>,Threat of Violence,Behavioral Expectations Reviewed,<N/S>,,,december
-2024-12-30 00:00:00,<N/S>,<N/S>,,Outpatient,Verbal,,<N/S>,<N/S>,"Intimidation; Profane, Lewd or Aggressive Language; Screaming or Yelling; Unwelcome or Offensive Language/Gestures",De-escalation Techniques Utilized; Notified Clinical Physician Resources; Notified Security,<N/S>,,,december
-2024-12-30 00:00:00,<N/S>,<N/S>,,Outpatient,Physical,Mild,None - No emotional and/or psychological impact,Other (please specify),Kicked,Behavioral Expectations Reviewed; De-escalation Techniques Utilized; Notified Supervisor; Physical Hold,<N/S>,,,december
-2024-12-30 00:00:00,"Nurse (RN, LPN, LNA)",Nurse (RN,,Outpatient,Verbal,,<N/S>,<N/S>,Intimidation,De-escalation Techniques Utilized,<N/S>,,,december
-2024-12-27 00:00:00,"Nurse (RN, LPN, LNA)",Nurse (RN,,Inpatient,Written/Digital,,<N/S>,<N/S>,"Gender / Sexist Comments; Intimidation; Profane, Lewd or Aggressive Language; Unwelcome or Offensive Language/Gestures",Behavioral Expectations Reviewed; Notified Supervisor,N/A or Unknown,,,december
-2024-12-31 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,Mild,Mild - Upset / Angry / Scared / Humiliated,Other (please specify),Assault w/ Bodily Fluids,Called Code Gray,<N/S>,,,december
-2024-12-31 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,,<N/S>,<N/S>,Pushed,Called Code Gray; De-escalation Techniques Utilized; Notified Clinical Physician Resources; Notified Security; Notified Supervisor,<N/S>,,,december
-2024-12-30 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,Mild,None - No emotional and/or psychological impact,Other (please specify),Grabbed; Hit w/ Fist; Pushed; Scratched,Called 911; De-escalation Techniques Utilized; Notified Security; Notified Supervisor; Physical Hold,<N/S>,,,december
-2024-12-27 00:00:00,<N/S>,<N/S>,,Outpatient,Verbal,,<N/S>,<N/S>,Stalking or Terrorizing,Notified Supervisor,<N/S>,,,december
-2024-12-31 00:00:00,<N/S>,<N/S>,,Visitor,Verbal,,<N/S>,<N/S>,"Profane, Lewd or Aggressive Language; Unwelcome or Offensive Language/Gestures",Behavioral Expectations Reviewed; De-escalation Techniques Utilized; Notified Supervisor,<N/S>,,,december
-2024-12-31 00:00:00,<N/S>,<N/S>,,Inpatient,Physical,,<N/S>,<N/S>,Pushed,De-escalation Techniques Utilized; Notified Security; Notified Supervisor,<N/S>,,,december
-2024-12-28 00:00:00,<N/S>,<N/S>,,Inpatient,Verbal,,<N/S>,<N/S>,"Profane, Lewd or Aggressive Language; Unwelcome or Offensive Language/Gestures",Notified Supervisor; Seclusion,<N/S>,,,december
-2024-12-30 00:00:00,<N/S>,<N/S>,,Inpatient,Written/Digital,,<N/S>,<N/S>,Stalking or Terrorizing; Unwelcome or Offensive Language/Gestures,Notified Supervisor,<N/S>,,,december
-2024-12-31 00:00:00,<N/S>,<N/S>,,Outpatient,Verbal,,<N/S>,<N/S>,Unwelcome or Offensive Language/Gestures,De-escalation Techniques Utilized,<N/S>,,,december
-,,nan,,,,,,,,,,,,december
-Privileged and Confidential - - Maine Health Security Act Professional Competence Review Activity Report,,nan,,,,,,,,,,,,december
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
-,,,,,,,,,,,,,,aug_oct
+,Administration/Support Services,Administration/Support Services,Unknown,,,Unknown,,,Posturing,Seclusion of Patient,Crisis Services Unavailable,,,phase1
+,Facilities/Plant Operations,Facilities/Plant Operations,Unknown,,,Unknown,,,Punched,Pepper Spray Used,Detox Bed Unavailable,,,phase1
+,Nutrition,Nutrition,Unknown,,,Unknown,,,Pushing/Shoving,Handcuffs/Shackles Used,Homelessness/Lack of Housing,,,phase1
+,Security,Security,Unknown,,,Unknown,,,Sexual Assault/Rape,De-escalation Techniques,Inpatient Bed Unavailable,,,phase1
+,Other,Other,Unknown,,,Unknown,,,Shooting,Emergency Call/Code,Jail/Corrections Placement Unavailable,,,phase1
+,,nan,Unknown,,,Unknown,,,Spitting,,Long Term Care/SNF Bed Unavailable,,,phase1
+,,nan,Unknown,,,Unknown,,,Stabbing,,PNMI/Residential Placement Unavailable,,,phase1
+,,nan,Unknown,,,Unknown,,,Stalking,,Psychiatric Bed Unavailable,,,phase1
+,,nan,Unknown,,,Unknown,,,Throwing Object/Breaking Object,,Removal of Personal Belongings by Security/Care Team,,,phase1
+,,nan,Unknown,,,Unknown,,,Verbal Assault,,Resource (Foster) Home Placement Unavailable,,,phase1
+,,nan,Unknown,,,Unknown,,,,,Self-Injurious Behavior,,,phase1
+,,nan,Unknown,,,Unknown,,,,,Under Influence of Substance(s),,,phase1
+,,nan,Unknown,,,Unknown,,,,,Unknown,,,phase1
+2024-12-01 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,Hit w/ Fist; Pushed; Scratched; Threat of Violence,Behavioral Expectations Reviewed; Called Code Gray; De-escalation Techniques Utilized; Mechanical Restraint; Physical Hold,<N/S>,,,december
+2024-12-02 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Mild,None - No emotional and/or psychological impact,Other (please specify),Unsure,De-escalation Techniques Utilized; Notified Supervisor; Physical Hold,<N/S>,,,december
+2024-12-02 00:00:00,<N/S>,<N/S>,Unknown,Other,Verbal,Unknown,<N/S>,<N/S>,Unwelcome or Offensive Language/Gestures,Notified Supervisor,<N/S>,,,december
+2024-12-03 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Written/Digital,Unknown,<N/S>,<N/S>,Unwelcome or Offensive Language/Gestures,Notified Supervisor,<N/S>,,,december
+2024-12-03 00:00:00,"Nurse (RN, LPN, LNA)",Nurse (RN,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,Intimidation; Threat of Violence,Notified Clinical Physician Resources; Notified Security,N/A or Unknown,,,december
+2024-12-03 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Moderate,None - No emotional and/or psychological impact,ED,Aggression Toward an Inanimate Object,De-escalation Techniques Utilized,<N/S>,,,december
+2024-12-03 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Verbal,Unknown,<N/S>,<N/S>,"Profane, Lewd or Aggressive Language; Unwelcome or Offensive Language/Gestures",Behavioral Expectations Reviewed; De-escalation Techniques Utilized,<N/S>,,,december
+2024-12-03 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Verbal,Unknown,<N/S>,<N/S>,"Profane, Lewd or Aggressive Language",Notified Supervisor,<N/S>,,,december
+2024-12-03 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Moderate,Mild - Upset / Angry / Scared / Humiliated,<N/S>,code situation,Called Code Gray,<N/S>,,,december
+2024-12-03 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Other,None - No emotional and/or psychological impact,Other (please specify),Hit w/ Fist,Behavioral Expectations Reviewed; Called Code Gray; Chemical Restraint; De-escalation Techniques Utilized; Notified Clinical Physician Resources; Notified Security,<N/S>,,,december
+2024-12-04 00:00:00,Administration/Support Services,Administration/Support Services,Unknown,Inpatient,Verbal,Unknown,<N/S>,<N/S>,Screaming or Yelling,Notified Supervisor,<N/S>,,,december
+2024-12-04 00:00:00,"Nurse (RN, LPN, LNA)",Nurse (RN,Unknown,Outpatient,Verbal,Unknown,<N/S>,<N/S>,"Gender / Sexist Comments; Profane, Lewd or Aggressive Language; Racial / Cultural Comments; Screaming or Yelling; Unwelcome or Offensive Language/Gestures",Behavioral Expectations Reviewed; De-escalation Techniques Utilized; Notified Clinical Physician Resources; Notified Security,<N/S>,,,december
+2024-12-04 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Verbal,Unknown,<N/S>,<N/S>,Unwelcome or Offensive Language/Gestures,De-escalation Techniques Utilized,<N/S>,,,december
+2024-12-04 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,threw dinner tray,Notified Supervisor,<N/S>,,,december
+2024-12-04 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Verbal,Unknown,<N/S>,<N/S>,Intimidation,Notified Supervisor,<N/S>,,,december
+2024-12-04 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,Threw cup of water on writer,Behavioral Expectations Reviewed,<N/S>,,,december
+2024-12-04 00:00:00,Allied Health/Technologist,Allied Health/Technologist,Unknown,Inpatient,Physical,Mild,Moderate - Moderate emotional and/or psychological impact with no missed work.,Other (please specify),Kicked,Mechanical Restraint; Notified Supervisor,<N/S>,,,december
+2024-12-05 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Other,Mild - Upset / Angry / Scared / Humiliated,Other (please specify),Hit w/ Fist,Physical Hold,<N/S>,,,december
+2024-12-04 00:00:00,<N/S>,<N/S>,Unknown,Other,Verbal,Unknown,<N/S>,<N/S>,Unwelcome or Offensive Language/Gestures,De-escalation Techniques Utilized,<N/S>,,,december
+2024-12-05 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Verbal,Unknown,<N/S>,<N/S>,"Intimidation; Profane, Lewd or Aggressive Language; Threat of Violence; Unwelcome or Offensive Language/Gestures",De-escalation Techniques Utilized; Notified Supervisor,<N/S>,,,december
+2024-12-03 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Verbal,Unknown,<N/S>,<N/S>,"Intimidation; Profane, Lewd or Aggressive Language; Screaming or Yelling",Notified Supervisor,<N/S>,,,december
+2024-12-06 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Verbal,Unknown,<N/S>,<N/S>,Throwing things in parking lot; Unwelcome or Offensive Language/Gestures,De-escalation Techniques Utilized,,,,december
+2024-12-06 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Verbal,Unknown,<N/S>,<N/S>,Intimidation,De-escalation Techniques Utilized; Notified Supervisor,<N/S>,,,december
+2024-12-06 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Verbal,Unknown,<N/S>,<N/S>,"Comment of ""This is how it is in the US""; Intimidation",Behavioral Expectations Reviewed,<N/S>,,,december
+2024-12-06 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Verbal,Unknown,<N/S>,<N/S>,"Gender / Sexist Comments; Profane, Lewd or Aggressive Language",Behavioral Expectations Reviewed; Notified Supervisor,<N/S>,,,december
+2024-12-06 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,hit with open arm,Behavioral Expectations Reviewed; De-escalation Techniques Utilized,<N/S>,,,december
+2024-12-04 00:00:00,<N/S>,<N/S>,Unknown,Other,Verbal,Unknown,<N/S>,<N/S>,Intimidation; Screaming or Yelling,Notified Supervisor,<N/S>,,,december
+2024-12-06 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,Choked,De-escalation Techniques Utilized,<N/S>,,,december
+2024-12-06 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Moderate,None - No emotional and/or psychological impact,Other (please specify),Choked,De-escalation Techniques Utilized,<N/S>,,,december
+2024-12-07 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Verbal,Unknown,<N/S>,<N/S>,Intimidation; Screaming or Yelling; Threat of Violence,De-escalation Techniques Utilized; Notified Clinical Physician Resources; Notified Supervisor,<N/S>,,,december
+2024-12-07 00:00:00,Allied Health/Technologist,Allied Health/Technologist,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,headbutted ,De-escalation Techniques Utilized; Physical Hold,<N/S>,,,december
+2024-12-06 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Physical,Unknown,Moderate - Moderate emotional and/or psychological impact with no missed work.,ED,Hit w/ Fist,Notified Clinical Physician Resources; Notified Security,<N/S>,,,december
+2024-12-07 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,Grabbed; Scratched; Slapped,Behavioral Expectations Reviewed; De-escalation Techniques Utilized; Notified Security; Physical Hold,<N/S>,,,december
+2024-12-07 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,Assault w/ Bodily Fluids; Grabbed; Hit w/ Fist; Hit w/ Object; Pushed; Scratched; Threat of Violence,De-escalation Techniques Utilized; Notified Security,<N/S>,,,december
+2024-12-08 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Verbal,Unknown,<N/S>,<N/S>,"Profane, Lewd or Aggressive Language",De-escalation Techniques Utilized; Notified Clinical Physician Resources; Notified Supervisor,<N/S>,,,december
+2024-12-08 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,Kicked,Behavioral Expectations Reviewed; De-escalation Techniques Utilized; Notified Clinical Physician Resources; Notified Supervisor,<N/S>,,,december
+2024-12-07 00:00:00,"Nurse (RN, LPN, LNA)",Nurse (RN,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,Pushed,Chemical Restraint; De-escalation Techniques Utilized; Mechanical Restraint; Notified Clinical Physician Resources; Notified Security; Notified Supervisor; Physical Hold,Long Term Care/SNF Bed Unavailable,,,december
+2024-12-08 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Verbal,Unknown,<N/S>,<N/S>,Threat of Violence,Behavioral Expectations Reviewed,<N/S>,,,december
+2024-12-07 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,Kicked,Called Code Gray; De-escalation Techniques Utilized,<N/S>,,,december
+2024-12-08 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Other,Severe - Significant Emotional and/or psychological impact resulting in missed work.,Other (please specify),Kicked,Called Code Gray; De-escalation Techniques Utilized; Notified Clinical Physician Resources; Notified Supervisor; Physical Hold,<N/S>,,,december
+2024-12-09 00:00:00,<N/S>,<N/S>,Unknown,Other,Physical,Moderate,None - No emotional and/or psychological impact,ED,Grabbed,Notified Clinical Physician Resources; Notified Security; Notified Supervisor,<N/S>,,,december
+2024-12-07 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,Assault w/ Bodily Fluids; Bitten; Grabbed; Hit w/ Fist; Hit w/ Object; Intimidation; Slapped; Threat of Violence,Behavioral Expectations Reviewed; Called Code Gray; De-escalation Techniques Utilized; Mechanical Restraint; Notified Clinical Physician Resources; Notified Security; Notified Supervisor; Physical Hold,<N/S>,,,december
+2024-12-07 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,Hair Pulling; Kicked; Slapped,Behavioral Expectations Reviewed; Chemical Restraint; De-escalation Techniques Utilized; Notified Security; Notified Supervisor; Physical Hold,<N/S>,,,december
+2024-12-06 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Mild,Mild - Upset / Angry / Scared / Humiliated,Other (please specify),Hit w/ Fist; Threat of Violence,Behavioral Expectations Reviewed; Called Code Gray; De-escalation Techniques Utilized,<N/S>,,,december
+2024-12-05 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Written/Digital,Unknown,<N/S>,<N/S>,Unwelcome or Offensive Language/Gestures,Notified Supervisor,<N/S>,,,december
+2024-12-09 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,Thrown object,De-escalation Techniques Utilized,<N/S>,,,december
+2024-12-09 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Physical,Mild,None - No emotional and/or psychological impact,<N/S>,Bitten; Grabbed,Behavioral Expectations Reviewed; De-escalation Techniques Utilized,<N/S>,,,december
+2024-12-09 00:00:00,Physician/APP,Physician/APP,Unknown,Outpatient,Verbal,Unknown,<N/S>,<N/S>,"Profane, Lewd or Aggressive Language; Screaming or Yelling; Unwelcome or Offensive Language/Gestures",Behavioral Expectations Reviewed; De-escalation Techniques Utilized,<N/S>,,,december
+2024-12-06 00:00:00,Physician/APP,Physician/APP,Unknown,Outpatient,Physical,Unknown,<N/S>,<N/S>,Hit w/ Fist,Behavioral Expectations Reviewed; De-escalation Techniques Utilized; Notified Security; Notified Supervisor,<N/S>,,,december
+2024-12-03 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Property Damage/Vandalism,Unknown,<N/S>,<N/S>,Aggression Toward an Inanimate Object,Notified Security,<N/S>,,,december
+2024-12-10 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Verbal,Unknown,<N/S>,<N/S>,"Profane, Lewd or Aggressive Language; Screaming or Yelling",De-escalation Techniques Utilized,<N/S>,,,december
+2024-12-10 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Verbal,Unknown,<N/S>,<N/S>,"Intimidation; Profane, Lewd or Aggressive Language; Screaming or Yelling; Threat of Violence; Unwelcome or Offensive Language/Gestures",Behavioral Expectations Reviewed; De-escalation Techniques Utilized; Notified Security,<N/S>,,,december
+2024-12-10 00:00:00,<N/S>,<N/S>,Unknown,Visitor,Verbal,Unknown,<N/S>,<N/S>,"Profane, Lewd or Aggressive Language; Screaming or Yelling; Unwelcome or Offensive Language/Gestures",Notified Security,<N/S>,,,december
+2024-12-10 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Verbal,Unknown,<N/S>,<N/S>,"Intimidation; Profane, Lewd or Aggressive Language; Screaming or Yelling",De-escalation Techniques Utilized; Notified Clinical Physician Resources; Notified Supervisor,<N/S>,,,december
+2024-12-10 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Verbal,Unknown,<N/S>,<N/S>,Intimidation; Screaming or Yelling,Behavioral Expectations Reviewed; De-escalation Techniques Utilized; Notified Security,<N/S>,,,december
+2024-12-10 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Verbal,Unknown,<N/S>,<N/S>,"Intimidation; Profane, Lewd or Aggressive Language; Screaming or Yelling",Notified Supervisor,<N/S>,,,december
+2024-12-10 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Verbal,Unknown,<N/S>,<N/S>,"Intimidation; Profane, Lewd or Aggressive Language; Screaming or Yelling",De-escalation Techniques Utilized; Notified Supervisor,<N/S>,,,december
+2024-12-10 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Verbal,Unknown,<N/S>,<N/S>,"Intimidation; Profane, Lewd or Aggressive Language; Screaming or Yelling; Threat of Violence",Behavioral Expectations Reviewed; De-escalation Techniques Utilized; Notified Clinical Physician Resources; Notified Supervisor,<N/S>,,,december
+2024-12-11 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Verbal,Unknown,<N/S>,<N/S>,"Intimidation; Profane, Lewd or Aggressive Language; Unwelcome or Offensive Language/Gestures",Notified Supervisor,<N/S>,,,december
+2024-12-11 00:00:00,Security,Security,Unknown,Other,Verbal,Unknown,<N/S>,<N/S>,accusing patient of shooting up drugs; Intimidation; Screaming or Yelling,Called 911,N/A or Unknown,,,december
+2024-12-09 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Physical,Unknown,<N/S>,<N/S>,Pushed; stuck by patient with both hands,De-escalation Techniques Utilized,<N/S>,,,december
+2024-12-12 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Verbal,Unknown,<N/S>,<N/S>,Intimidation,De-escalation Techniques Utilized; Notified Security; Notified Supervisor,<N/S>,,,december
+2024-12-06 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Verbal,Unknown,<N/S>,<N/S>,"Profane, Lewd or Aggressive Language; Unwelcome or Offensive Language/Gestures",De-escalation Techniques Utilized; Notified Supervisor,<N/S>,,,december
+2024-12-10 00:00:00,Administration/Support Services,Administration/Support Services,Unknown,Outpatient,Verbal,Unknown,<N/S>,<N/S>,"Profane, Lewd or Aggressive Language",De-escalation Techniques Utilized; Notified Supervisor,<N/S>,,,december
+2024-12-12 00:00:00,<N/S>,<N/S>,Unknown,Resident (LTC),Verbal,Unknown,<N/S>,<N/S>,"Intimidation; Profane, Lewd or Aggressive Language",De-escalation Techniques Utilized,<N/S>,,,december
+2024-12-12 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Verbal,Unknown,<N/S>,<N/S>,"Gender / Sexist Comments; Profane, Lewd or Aggressive Language; Screaming or Yelling; Unwelcome or Offensive Language/Gestures",Behavioral Expectations Reviewed; Called 911; De-escalation Techniques Utilized; Notified Security,<N/S>,,,december
+2024-12-12 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Verbal,Unknown,<N/S>,<N/S>,Intimidation; Screaming or Yelling; Unwelcome or Offensive Language/Gestures,Behavioral Expectations Reviewed,<N/S>,,,december
+2024-12-13 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Mild,None - No emotional and/or psychological impact,ED,Kicked; Scratched,Chemical Restraint; De-escalation Techniques Utilized; Notified Security; Notified Supervisor; Physical Hold; Seclusion,<N/S>,,,december
+2024-12-13 00:00:00,<N/S>,<N/S>,Unknown,Other,Verbal,Unknown,<N/S>,<N/S>,Harassment,Notified Supervisor,<N/S>,,,december
+2024-12-13 00:00:00,Physician/APP,Physician/APP,Unknown,Outpatient,Written/Digital,Unknown,<N/S>,<N/S>,"Intimidation; Profane, Lewd or Aggressive Language",Behavioral Expectations Reviewed,<N/S>,,,december
+2024-12-13 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Other,Moderate - Moderate emotional and/or psychological impact with no missed work.,<N/S>,Hit w/ Object,Behavioral Expectations Reviewed; De-escalation Techniques Utilized,<N/S>,,,december
+2024-12-14 00:00:00,"Nurse (RN, LPN, LNA)",Nurse (RN,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,Hit w/ Fist; Kicked,Chemical Restraint; De-escalation Techniques Utilized; Mechanical Restraint; Physical Hold,<N/S>,,,december
+2024-12-14 00:00:00,"Nurse (RN, LPN, LNA)",Nurse (RN,Unknown,Inpatient,Physical,Mild,None - No emotional and/or psychological impact,<N/S>,Bitten,Behavioral Expectations Reviewed; De-escalation Techniques Utilized; Notified Clinical Physician Resources; Notified Security; Notified Supervisor; Physical Hold,<N/S>,,,december
+2024-12-14 00:00:00,Security,Security,Unknown,Outpatient,Verbal,Unknown,<N/S>,<N/S>,Intimidation; spit in face; Threat of Violence,<N/S>,<N/S>,,,december
+2024-12-14 00:00:00,Security,Security,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,<N/S>,<N/S>,<N/S>,,,december
+2024-12-14 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Verbal,Unknown,<N/S>,<N/S>,Racial / Cultural Comments; Unwelcome or Offensive Language/Gestures,Behavioral Expectations Reviewed; De-escalation Techniques Utilized,<N/S>,,,december
+2024-12-13 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Verbal,Unknown,<N/S>,<N/S>,"Profane, Lewd or Aggressive Language; Unwelcome or Offensive Language/Gestures",Behavioral Expectations Reviewed; De-escalation Techniques Utilized,<N/S>,,,december
+2024-12-14 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Verbal,Unknown,<N/S>,<N/S>,"Profane, Lewd or Aggressive Language; Unwelcome or Offensive Language/Gestures",Behavioral Expectations Reviewed,<N/S>,,,december
+2024-12-14 00:00:00,<N/S>,<N/S>,Unknown,Resident (LTC),Verbal,Unknown,<N/S>,<N/S>,"Intimidation; Profane, Lewd or Aggressive Language",De-escalation Techniques Utilized,<N/S>,,,december
+2024-12-14 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,Bitten,De-escalation Techniques Utilized,<N/S>,,,december
+2024-12-14 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Mild,None - No emotional and/or psychological impact,ED,Assault w/ Bodily Fluids; Grabbed; Hit w/ Fist; Intimidation; Pushed; Scratched; Threat of Violence,De-escalation Techniques Utilized; Mechanical Restraint; Notified Security; Physical Hold,<N/S>,,,december
+2024-12-14 00:00:00,Other,Other,Unknown,Inpatient,Physical,Other,Mild - Upset / Angry / Scared / Humiliated,ED,Kicked,Notified Supervisor,<N/S>,,,december
+2024-12-14 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Verbal,Unknown,<N/S>,<N/S>,"Intimidation; Profane, Lewd or Aggressive Language; Racial / Cultural Comments; Screaming or Yelling; Threat of Violence",De-escalation Techniques Utilized,<N/S>,,,december
+2024-12-15 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,Grabbed; Intimidation; Threat of Violence,Behavioral Expectations Reviewed; Chemical Restraint; De-escalation Techniques Utilized; Notified Clinical Physician Resources,<N/S>,,,december
+2024-12-14 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,Bitten; Grabbed; Pushed,Behavioral Expectations Reviewed; De-escalation Techniques Utilized; Notified Supervisor,<N/S>,,,december
+2024-12-15 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Property Damage/Vandalism,Unknown,<N/S>,<N/S>,Aggression Toward an Inanimate Object,Notified Supervisor,<N/S>,,,december
+2024-12-15 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Written/Digital,Unknown,<N/S>,<N/S>,"Profane, Lewd or Aggressive Language; Threat of Violence",Notified Supervisor,<N/S>,,,december
+2024-12-15 00:00:00,Other,Other,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,Hit w/ head; Pinched; Unwelcome or Offensive Touching,De-escalation Techniques Utilized,Mom unable to take patient home; PNMI/Residential Placement Unavailable,,,december
+2024-12-16 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Verbal,Unknown,<N/S>,<N/S>,"Intimidation; Profane, Lewd or Aggressive Language; Screaming or Yelling; Threat of Violence",Called 911; De-escalation Techniques Utilized; Notified Security; Notified Supervisor,<N/S>,,,december
+2024-12-16 00:00:00,<N/S>,<N/S>,Unknown,Visitor,Verbal,Unknown,<N/S>,<N/S>,"Intimidation; Profane, Lewd or Aggressive Language; Screaming or Yelling; Threat of Violence; Unwelcome or Offensive Language/Gestures",Called 911; De-escalation Techniques Utilized; Notified Security; Notified Supervisor,<N/S>,,,december
+2024-12-13 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Verbal,Unknown,<N/S>,<N/S>,Intimidation,Notified Supervisor,<N/S>,,,december
+2024-12-16 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,Threat of Violence,De-escalation Techniques Utilized; Notified Supervisor,N/A or Unknown,,,december
+2024-12-16 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Verbal,Unknown,<N/S>,<N/S>,Intimidation; Unwelcome or Offensive Language/Gestures,Notified Clinical Physician Resources,<N/S>,,,december
+2024-12-17 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Mild,None - No emotional and/or psychological impact,Other (please specify),Hit w/ Fist,De-escalation Techniques Utilized,<N/S>,,,december
+2024-12-17 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,Hit w/ Fist,Called Code Gray; Mechanical Restraint; Physical Hold,<N/S>,,,december
+2024-12-17 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,Kicked,Chemical Restraint; De-escalation Techniques Utilized; Notified Clinical Physician Resources; Notified Supervisor,<N/S>,,,december
+2024-12-17 00:00:00,"Nurse (RN, LPN, LNA)",Nurse (RN,Unknown,Outpatient,Verbal,Unknown,<N/S>,<N/S>,"Profane, Lewd or Aggressive Language; Unwelcome or Offensive Language/Gestures",De-escalation Techniques Utilized,N/A or Unknown,,,december
+2024-12-16 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Verbal,Unknown,<N/S>,<N/S>,Screaming or Yelling; THROWING THINGS IN THE ROOM,Called Code Gray,<N/S>,,,december
+2024-12-17 00:00:00,Allied Health/Technologist,Allied Health/Technologist,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,Bitten; Choked; Grabbed; Kicked; Pushed,Behavioral Expectations Reviewed; De-escalation Techniques Utilized; Notified Supervisor,Psychiatric Bed Unavailable,,,december
+2024-12-17 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Mild,Mild - Upset / Angry / Scared / Humiliated,Other (please specify),Kicked,Notified Supervisor,<N/S>,,,december
+2024-12-17 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Verbal,Unknown,<N/S>,<N/S>,Intimidation; Screaming or Yelling,De-escalation Techniques Utilized,<N/S>,,,december
+2024-12-17 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Verbal,Unknown,<N/S>,<N/S>,Racial / Cultural Comments; Screaming or Yelling,De-escalation Techniques Utilized; Notified Security; Notified Supervisor,<N/S>,,,december
+2024-12-17 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,Kicked,Called Code Gray; De-escalation Techniques Utilized; Notified Clinical Physician Resources; Notified Security; Notified Supervisor; Physical Hold,<N/S>,,,december
+2024-12-17 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Physical,Unknown,<N/S>,<N/S>,Kicked,De-escalation Techniques Utilized; Notified Security,<N/S>,,,december
+2024-12-17 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Physical,Mild,Mild - Upset / Angry / Scared / Humiliated,ED,Grabbed; Intimidation; Threat of Violence; Unwelcome or Offensive Touching,Called 911; De-escalation Techniques Utilized; Notified Security; Notified Supervisor,<N/S>,,,december
+2024-12-17 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Property Damage/Vandalism,Unknown,<N/S>,<N/S>,Aggression Toward an Inanimate Object; Verbal aggression toward staff,Called Code Gray; De-escalation Techniques Utilized,<N/S>,,,december
+2024-12-18 00:00:00,<N/S>,<N/S>,Unknown,Other,Verbal,Unknown,<N/S>,<N/S>,"Profane, Lewd or Aggressive Language",Notified Supervisor,<N/S>,,,december
+2024-12-18 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,Kicked,De-escalation Techniques Utilized,<N/S>,,,december
+2024-12-18 00:00:00,Physician/APP,Physician/APP,Unknown,Other,Written/Digital,Unknown,<N/S>,<N/S>,Intimidation; Threat of Violence,Behavioral Expectations Reviewed; De-escalation Techniques Utilized; Physical Hold,<N/S>,,,december
+2024-12-18 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,Pushed,De-escalation Techniques Utilized; Physical Hold,<N/S>,,,december
+2024-12-17 00:00:00,Other,Other,Unknown,Outpatient,Verbal,Unknown,<N/S>,<N/S>,Gender / Sexist Comments; Unwelcome or Offensive Language/Gestures,Notified Supervisor,N/A or Unknown,,,december
+2024-12-19 00:00:00,<N/S>,<N/S>,Unknown,Visitor,Verbal,Unknown,<N/S>,<N/S>,"Intimidation; Profane, Lewd or Aggressive Language; Screaming or Yelling; Threat of Violence",Behavioral Expectations Reviewed; De-escalation Techniques Utilized; Notified Security; Notified Supervisor,<N/S>,,,december
+2024-12-19 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Verbal,Unknown,<N/S>,<N/S>,"Profane, Lewd or Aggressive Language; Screaming or Yelling; Unwelcome or Offensive Language/Gestures",Notified Security,<N/S>,,,december
+2024-12-19 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Verbal,Unknown,<N/S>,<N/S>,"Profane, Lewd or Aggressive Language",De-escalation Techniques Utilized; Notified Supervisor,<N/S>,,,december
+2024-12-20 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Verbal,Unknown,<N/S>,<N/S>,Screaming or Yelling; Unwelcome or Offensive Language/Gestures,De-escalation Techniques Utilized; Notified Supervisor,<N/S>,,,december
+2024-12-20 00:00:00,Education,Education,Unknown,Outpatient,Physical,Other,None - No emotional and/or psychological impact,Other (please specify),Hit w/ Fist,De-escalation Techniques Utilized; Physical Hold; Seclusion,<N/S>,,,december
+2024-12-19 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Physical,Moderate,None - No emotional and/or psychological impact,<N/S>,Bitten,Behavioral Expectations Reviewed; De-escalation Techniques Utilized,<N/S>,,,december
+2024-12-20 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Verbal,Unknown,<N/S>,<N/S>,"Gender / Sexist Comments; Profane, Lewd or Aggressive Language",Behavioral Expectations Reviewed; Notified Supervisor,<N/S>,,,december
+2024-12-13 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,Assault w/ Bodily Fluids,Notified Supervisor,<N/S>,,,december
+2024-12-20 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Mild,None - No emotional and/or psychological impact,Other (please specify),Hit w/ Object,De-escalation Techniques Utilized; Notified Clinical Physician Resources; Notified Supervisor,<N/S>,,,december
+2024-12-21 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,Intimidation; Screaming or Yelling; Threat of Violence,Behavioral Expectations Reviewed; De-escalation Techniques Utilized; Notified Supervisor,<N/S>,,,december
+2024-12-21 00:00:00,Other,Other,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,Hit w/ Fist,De-escalation Techniques Utilized; Notified Supervisor,<N/S>,,,december
+2024-12-21 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,Kicked,Behavioral Expectations Reviewed; De-escalation Techniques Utilized; Notified Supervisor,<N/S>,,,december
+2024-12-21 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,Unwelcome or Offensive Touching,De-escalation Techniques Utilized,N/A or Unknown,,,december
+2024-12-22 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,Grabbed; Hit w/ Fist; Pushed,Called Code Gray; Physical Hold,<N/S>,,,december
+2024-12-19 00:00:00,<N/S>,<N/S>,Unknown,Visitor,Verbal,Unknown,<N/S>,<N/S>,"Profane, Lewd or Aggressive Language",Behavioral Expectations Reviewed; De-escalation Techniques Utilized; Notified Supervisor,<N/S>,,,december
+2024-12-20 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Verbal,Unknown,<N/S>,<N/S>,Threat of Violence,Behavioral Expectations Reviewed; De-escalation Techniques Utilized; Notified Security; Notified Supervisor,<N/S>,,,december
+2024-12-23 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Verbal,Unknown,<N/S>,<N/S>,"Profane, Lewd or Aggressive Language; Screaming or Yelling; Unwelcome or Offensive Language/Gestures",De-escalation Techniques Utilized; Notified Supervisor,<N/S>,,,december
+2024-12-23 00:00:00,"Nurse (RN, LPN, LNA)",Nurse (RN,Unknown,Outpatient,Verbal,Unknown,<N/S>,<N/S>,Intimidation; Screaming or Yelling,De-escalation Techniques Utilized,<N/S>,,,december
+2024-12-23 00:00:00,<N/S>,<N/S>,Unknown,Other,Physical,Severe,None - No emotional and/or psychological impact,ED,Aggression Toward an Inanimate Object,Behavioral Expectations Reviewed,<N/S>,,,december
+2024-12-22 00:00:00,"Nurse (RN, LPN, LNA)",Nurse (RN,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,Hit w/ Fist,Behavioral Expectations Reviewed; Chemical Restraint; De-escalation Techniques Utilized; Notified Clinical Physician Resources,Homelessness/Lack of Housing,,,december
+2024-12-23 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,Assault w/ Weapon; Threat of Violence,Called 911; Notified Supervisor,<N/S>,,,december
+2024-12-23 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Mild,None - No emotional and/or psychological impact,<N/S>,Grabbed; Scratched,Physical Hold,<N/S>,,,december
+2024-12-24 00:00:00,"Nurse (RN, LPN, LNA)",Nurse (RN,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,Intimidation; Stalking or Terrorizing; Unwelcome or Offensive Touching,De-escalation Techniques Utilized; Notified Clinical Physician Resources; Notified Supervisor,<N/S>,,,december
+2024-12-25 00:00:00,"Nurse (RN, LPN, LNA)",Nurse (RN,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,Pushed,Called Code Gray,<N/S>,,,december
+2024-12-24 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Verbal,Unknown,<N/S>,<N/S>,"Gender / Sexist Comments; Intimidation; Profane, Lewd or Aggressive Language; Racial / Cultural Comments; Unwelcome or Offensive Language/Gestures",Notified Supervisor,<N/S>,,,december
+2024-12-26 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Property Damage/Vandalism,Unknown,<N/S>,<N/S>,"Aggression Toward an Inanimate Object; yelling, swearing, intimidation; Destruction of property",Called 911; De-escalation Techniques Utilized; Notified Security,<N/S>,,,december
+2024-12-26 00:00:00,Allied Health/Technologist,Allied Health/Technologist,Unknown,Outpatient,Verbal,Unknown,<N/S>,<N/S>,Screaming or Yelling,Notified Supervisor,<N/S>,,,december
+2024-12-26 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Verbal,Unknown,<N/S>,<N/S>,Intimidation; Screaming or Yelling; Threat of Violence; Unwelcome or Offensive Language/Gestures,Called Code Gray; De-escalation Techniques Utilized; Notified Clinical Physician Resources; Notified Security; Notified Supervisor,<N/S>,,,december
+2024-12-27 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,Hit w/ Fist,Behavioral Expectations Reviewed; Called Code Gray; De-escalation Techniques Utilized,<N/S>,,,december
+2024-12-27 00:00:00,<N/S>,<N/S>,Unknown,Other,Verbal,Unknown,<N/S>,<N/S>,Intimidation; Screaming or Yelling,Notified Supervisor,<N/S>,,,december
+2024-12-28 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,Hit w/ Fist; Threat of Violence,Behavioral Expectations Reviewed; De-escalation Techniques Utilized; Notified Supervisor,<N/S>,,,december
+2024-12-28 00:00:00,Allied Health/Technologist,Allied Health/Technologist,Unknown,Inpatient,Verbal,Unknown,<N/S>,<N/S>,Unwelcome or Offensive Language/Gestures,Behavioral Expectations Reviewed,<N/S>,,,december
+2024-12-28 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,Grabbed,De-escalation Techniques Utilized; Notified Supervisor,<N/S>,,,december
+2024-12-25 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,Hit w/ Object,Called Code Gray; De-escalation Techniques Utilized; Notified Security; Physical Hold,<N/S>,,,december
+2024-12-29 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,Hit w/ Fist; Kicked; Threat of Violence,Behavioral Expectations Reviewed; De-escalation Techniques Utilized; Notified Supervisor,<N/S>,,,december
+2024-12-25 00:00:00,Other,Other,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,Hit w/ Fist,Called Code Gray; De-escalation Techniques Utilized; Notified Security; Physical Hold,<N/S>,,,december
+2024-12-29 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,Slapped,De-escalation Techniques Utilized,<N/S>,,,december
+2024-12-29 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Mild,None - No emotional and/or psychological impact,<N/S>,Hit w/ Fist,Called Code Gray; Chemical Restraint; De-escalation Techniques Utilized; Notified Clinical Physician Resources; Notified Security; Notified Supervisor; Physical Hold,<N/S>,,,december
+2024-12-29 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Verbal,Unknown,<N/S>,<N/S>,Screaming or Yelling; Threat of Violence; Unwelcome or Offensive Language/Gestures,Behavioral Expectations Reviewed; Called Code Gray; De-escalation Techniques Utilized; Notified Clinical Physician Resources; Notified Security; Notified Supervisor,<N/S>,,,december
+2024-12-29 00:00:00,"Nurse (RN, LPN, LNA)",Nurse (RN,Unknown,Outpatient,Physical,Other,Mild - Upset / Angry / Scared / Humiliated,<N/S>,Hit w/ Fist,Behavioral Expectations Reviewed; De-escalation Techniques Utilized; Notified Security; Notified Supervisor,<N/S>,,,december
+2024-12-29 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,Hit w/ Fist,Called 911; De-escalation Techniques Utilized; Notified Security; Notified Supervisor,<N/S>,,,december
+2024-12-30 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,Assault w/ Bodily Fluids; Hit w/ Fist,Called Code Gray; De-escalation Techniques Utilized; Notified Security; Notified Supervisor; Physical Hold; Seclusion,<N/S>,,,december
+2024-12-30 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,Hit w/ Fist,Called Code Gray,<N/S>,,,december
+2024-12-30 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Verbal,Unknown,<N/S>,<N/S>,Intimidation,De-escalation Techniques Utilized,<N/S>,,,december
+2024-12-30 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Verbal,Unknown,<N/S>,<N/S>,Threat of Violence,Behavioral Expectations Reviewed,<N/S>,,,december
+2024-12-30 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Verbal,Unknown,<N/S>,<N/S>,"Intimidation; Profane, Lewd or Aggressive Language; Screaming or Yelling; Unwelcome or Offensive Language/Gestures",De-escalation Techniques Utilized; Notified Clinical Physician Resources; Notified Security,<N/S>,,,december
+2024-12-30 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Physical,Mild,None - No emotional and/or psychological impact,Other (please specify),Kicked,Behavioral Expectations Reviewed; De-escalation Techniques Utilized; Notified Supervisor; Physical Hold,<N/S>,,,december
+2024-12-30 00:00:00,"Nurse (RN, LPN, LNA)",Nurse (RN,Unknown,Outpatient,Verbal,Unknown,<N/S>,<N/S>,Intimidation,De-escalation Techniques Utilized,<N/S>,,,december
+2024-12-27 00:00:00,"Nurse (RN, LPN, LNA)",Nurse (RN,Unknown,Inpatient,Written/Digital,Unknown,<N/S>,<N/S>,"Gender / Sexist Comments; Intimidation; Profane, Lewd or Aggressive Language; Unwelcome or Offensive Language/Gestures",Behavioral Expectations Reviewed; Notified Supervisor,N/A or Unknown,,,december
+2024-12-31 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Mild,Mild - Upset / Angry / Scared / Humiliated,Other (please specify),Assault w/ Bodily Fluids,Called Code Gray,<N/S>,,,december
+2024-12-31 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,Pushed,Called Code Gray; De-escalation Techniques Utilized; Notified Clinical Physician Resources; Notified Security; Notified Supervisor,<N/S>,,,december
+2024-12-30 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Mild,None - No emotional and/or psychological impact,Other (please specify),Grabbed; Hit w/ Fist; Pushed; Scratched,Called 911; De-escalation Techniques Utilized; Notified Security; Notified Supervisor; Physical Hold,<N/S>,,,december
+2024-12-27 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Verbal,Unknown,<N/S>,<N/S>,Stalking or Terrorizing,Notified Supervisor,<N/S>,,,december
+2024-12-31 00:00:00,<N/S>,<N/S>,Unknown,Visitor,Verbal,Unknown,<N/S>,<N/S>,"Profane, Lewd or Aggressive Language; Unwelcome or Offensive Language/Gestures",Behavioral Expectations Reviewed; De-escalation Techniques Utilized; Notified Supervisor,<N/S>,,,december
+2024-12-31 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Physical,Unknown,<N/S>,<N/S>,Pushed,De-escalation Techniques Utilized; Notified Security; Notified Supervisor,<N/S>,,,december
+2024-12-28 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Verbal,Unknown,<N/S>,<N/S>,"Profane, Lewd or Aggressive Language; Unwelcome or Offensive Language/Gestures",Notified Supervisor; Seclusion,<N/S>,,,december
+2024-12-30 00:00:00,<N/S>,<N/S>,Unknown,Inpatient,Written/Digital,Unknown,<N/S>,<N/S>,Stalking or Terrorizing; Unwelcome or Offensive Language/Gestures,Notified Supervisor,<N/S>,,,december
+2024-12-31 00:00:00,<N/S>,<N/S>,Unknown,Outpatient,Verbal,Unknown,<N/S>,<N/S>,Unwelcome or Offensive Language/Gestures,De-escalation Techniques Utilized,<N/S>,,,december
+,,nan,Unknown,,,Unknown,,,,,,,,december
+Privileged and Confidential - - Maine Health Security Act Professional Competence Review Activity Report,,nan,Unknown,,,Unknown,,,,,,,,december
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
+,,,Unknown,,,Unknown,,,,,,,,aug_oct
